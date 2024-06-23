@@ -1,0 +1,10 @@
+{
+  "Question": "Welche politischen Rechte haben Schweizerinnen und Schweizer, die\nim Ausland leben?",
+  "PossibleAnswers": [
+    "Sie dürfen an Abstimmungen und Wahlen teilnehmen, wenn sie in der Schweiz zu\nBesuch sind.",
+    "Sie verlieren alle politischen Rechte in der Schweiz.",
+    "Sie können an nationalen Abstimmungen und Wahlen teilnehmen, ohne deswegen\nin die Schweiz reisen zu müssen.",
+    "Sie dürfen sich im Gastland in keiner Weise politisch engagieren."
+  ],
+  "CorrectAnswer": "Sie können an nationalen Abstimmungen und Wahlen teilnehmen, ohne deswegen\nin die Schweiz reisen zu müssen."
+}

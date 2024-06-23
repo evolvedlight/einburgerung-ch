@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist die erste Säule der Altersvorsorge?",
+  "PossibleAnswers": [
+    "das bedingungslose Grundeinkommen",
+    "die Pensionskasse",
+    "der Grundpfeiler des Schweizer Parlamentsgebäudes",
+    "die AHV (Alters-, Hinterlassenen- und Invalidenversicherung)"
+  ],
+  "CorrectAnswer": "die AHV (Alters-, Hinterlassenen- und Invalidenversicherung)"
+}

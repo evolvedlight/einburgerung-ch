@@ -1,0 +1,10 @@
+{
+  "Question": "Der Zivildienst in der Schweiz ist ...",
+  "PossibleAnswers": [
+    "für alle Männer und Frauen obligatorisch.",
+    "ein freiwilliger Einsatz für die Gesellschaft.",
+    "ein Ersatz zum Militärdienst.",
+    "ein Freifach der obligatorischen Schule."
+  ],
+  "CorrectAnswer": "ein Ersatz zum Militärdienst."
+}

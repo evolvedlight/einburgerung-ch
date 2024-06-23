@@ -1,0 +1,10 @@
+{
+  "Question": "Wer stellt im Kanton Zürich die Führerausweise für Autofahrerinnen\nund Autofahrer aus?",
+  "PossibleAnswers": [
+    "die Gemeinde",
+    "das Strassenverkehrsamt",
+    "die Verkehrsverbände",
+    "die Verkehrspolizei"
+  ],
+  "CorrectAnswer": "das Strassenverkehrsamt"
+}

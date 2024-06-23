@@ -1,0 +1,10 @@
+{
+  "Question": "Für was setzt sich Amnesty International ein?",
+  "PossibleAnswers": [
+    "für die Senkung des CO2",
+    "für die Artenvielfalt",
+    "für das Tierwohl",
+    "für die Achtung der Menschenrechte"
+  ],
+  "CorrectAnswer": "für die Achtung der Menschenrechte"
+}

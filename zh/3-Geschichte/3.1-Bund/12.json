@@ -1,0 +1,10 @@
+{
+  "Question": "In der Schweiz begann die Industrialisierung im frühen 19. Jahrhun-\ndert. Was war dabei am wichtigsten?",
+  "PossibleAnswers": [
+    "Textilindustrie",
+    "Stahlindustrie",
+    "Kohlenförderung",
+    "Autoindustrie"
+  ],
+  "CorrectAnswer": "Textilindustrie"
+}

@@ -1,0 +1,10 @@
+{
+  "Question": "Wie viele Unterschriften braucht es für eine Volksinitiative auf Bun-\ndesebene?",
+  "PossibleAnswers": [
+    "30",
+    "100",
+    "500",
+    "800"
+  ],
+  "CorrectAnswer": "100"
+}

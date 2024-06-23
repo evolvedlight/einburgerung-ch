@@ -1,0 +1,10 @@
+{
+  "Question": "Wie viele Regierungsräte hat der Kanton Zürich?",
+  "PossibleAnswers": [
+    "3",
+    "250",
+    "7",
+    "180"
+  ],
+  "CorrectAnswer": "7"
+}

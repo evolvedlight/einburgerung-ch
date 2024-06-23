@@ -1,0 +1,10 @@
+{
+  "Question": "Für welche sozialen Leistungen zahlen die Gemeinden?",
+  "PossibleAnswers": [
+    "Sozialhilfe in einer Notsituation",
+    "Altersrente",
+    "Kosten für die Fahrprüfung",
+    "Reisekosten in der Freizeit"
+  ],
+  "CorrectAnswer": "Sozialhilfe in einer Notsituation"
+}

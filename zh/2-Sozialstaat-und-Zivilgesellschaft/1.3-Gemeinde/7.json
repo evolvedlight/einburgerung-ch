@@ -1,0 +1,10 @@
+{
+  "Question": "Wer leitet die Verwaltung und plant die Ziele öffentlichen Handelns\nder Stadt Zürich?",
+  "PossibleAnswers": [
+    "die Stadtkanzlei",
+    "der Stadtrat",
+    "die Einwohnerkontrolle",
+    "die Einwohnerinnen und Einwohner der Stadt"
+  ],
+  "CorrectAnswer": "der Stadtrat"
+}

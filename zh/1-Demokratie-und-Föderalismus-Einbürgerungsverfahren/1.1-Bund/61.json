@@ -1,0 +1,10 @@
+{
+  "Question": "Was sind die Landessprachen der Schweiz?",
+  "PossibleAnswers": [
+    "Französisch, Italienisch, Englisch, Deutsch",
+    "Französisch, Italienisch, Rätoromanisch, Deutsch",
+    "Französisch, Italienisch, Dialekte der Kantone und Rätoromanisch",
+    "Deutsch, Französisch, Italienisch"
+  ],
+  "CorrectAnswer": "Französisch, Italienisch, Rätoromanisch, Deutsch"
+}

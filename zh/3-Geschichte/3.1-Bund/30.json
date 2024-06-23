@@ -1,0 +1,10 @@
+{
+  "Question": "Welche Versicherung wurde 1948 in der Schweiz eingeführt?",
+  "PossibleAnswers": [
+    "die Haftpflichtversicherung für Motorfahrzeuge",
+    "die Feuerversicherung",
+    "die Alters- und Hinterlassenenversicherung (AHV)",
+    "die Lebensversicherung"
+  ],
+  "CorrectAnswer": "die Alters- und Hinterlassenenversicherung (AHV)"
+}

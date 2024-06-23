@@ -1,0 +1,10 @@
+{
+  "Question": "Besitzer eines Hundes müssen für ihren Hund ...",
+  "PossibleAnswers": [
+    "einen Namen haben.",
+    "eine Geburtsurkunde besitzen.",
+    "Hundesteuern zahlen.",
+    "eine Krankenversicherung abschliessen."
+  ],
+  "CorrectAnswer": "Hundesteuern zahlen."
+}

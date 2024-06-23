@@ -1,0 +1,10 @@
+{
+  "Question": "Über was können stimmberechtigte Bürgerinnen und Bürger in der\nSchweiz auf Bundesebene abstimmen?",
+  "PossibleAnswers": [
+    "über Parteiprogramme",
+    "über das Radio- und Fernsehprogramm",
+    "über Volksinitiativen und Referenden",
+    "über die Besetzung von Verwaltungsstellen"
+  ],
+  "CorrectAnswer": "über Volksinitiativen und Referenden"
+}

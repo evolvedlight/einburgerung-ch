@@ -1,0 +1,10 @@
+{
+  "Question": "Wer wählt die sieben Mitglieder des Bundesrats?",
+  "PossibleAnswers": [
+    "die Parteipräsidentinnen und Parteipräsidenten",
+    "die Stimmbürgerinnen und Stimmbürger in direkter Wahl",
+    "der Rat der Ältesten",
+    "Nationalrat und Ständerat"
+  ],
+  "CorrectAnswer": "Nationalrat und Ständerat"
+}

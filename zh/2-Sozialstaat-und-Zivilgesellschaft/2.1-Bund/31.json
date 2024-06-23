@@ -1,0 +1,10 @@
+{
+  "Question": "Für was steht in der Schweiz die Nummer 144?",
+  "PossibleAnswers": [
+    "für den Sanitätsnotruf",
+    "für die Feuerwehrzentrale",
+    "für die Polizeizentrale",
+    "für die Auskunft"
+  ],
+  "CorrectAnswer": "für den Sanitätsnotruf"
+}

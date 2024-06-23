@@ -1,0 +1,10 @@
+{
+  "Question": "Wer darf auf Bundesebene wählen und abstimmen?",
+  "PossibleAnswers": [
+    "Personen, die in der Schweiz wohnen",
+    "Schweizerinnen und Schweizer ab 18 Jahren",
+    "Schweizerinnen und Schweizer, die nicht vorbestraft sind",
+    "Personen, die in der Schweiz Steuern bezahlen"
+  ],
+  "CorrectAnswer": "Schweizerinnen und Schweizer ab 18 Jahren"
+}

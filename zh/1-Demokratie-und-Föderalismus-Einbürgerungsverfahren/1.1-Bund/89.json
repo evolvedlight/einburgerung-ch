@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist in einem Rechtsstaat verboten?",
+  "PossibleAnswers": [
+    "Gesetze zu kritisieren",
+    "die Arbeit von demokratisch gewählten Behörden in Frage zu stellen",
+    "Personen grundlos zu verhaften und einzusperren",
+    "einer religiösen Gruppierung beizutreten"
+  ],
+  "CorrectAnswer": "Personen grundlos zu verhaften und einzusperren"
+}

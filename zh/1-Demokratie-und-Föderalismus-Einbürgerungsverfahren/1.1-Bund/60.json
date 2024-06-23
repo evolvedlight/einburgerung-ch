@@ -1,0 +1,10 @@
+{
+  "Question": "Welche Staatsebene ist für das Militär zuständig?",
+  "PossibleAnswers": [
+    "Bund",
+    "Kanton",
+    "Bezirk",
+    "Gemeinde"
+  ],
+  "CorrectAnswer": "Bund"
+}

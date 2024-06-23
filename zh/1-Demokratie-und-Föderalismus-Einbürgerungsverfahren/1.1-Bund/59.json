@@ -1,0 +1,10 @@
+{
+  "Question": "Für was ist der Bund zuständig?",
+  "PossibleAnswers": [
+    "für die Organisation der Volksschule",
+    "für die Aussenpolitik",
+    "für den Erlass von Bauordnungen",
+    "für die Wahl der Kantonsrichterinnen und Kantonsrichter"
+  ],
+  "CorrectAnswer": "für die Aussenpolitik"
+}

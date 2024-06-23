@@ -1,0 +1,10 @@
+{
+  "Question": "Was will der Finanzausgleich zwischen den Gemeinden?",
+  "PossibleAnswers": [
+    "Er soll helfen, die Korruption zu bekämpfen.",
+    "Er soll helfen, eine Inflation zu vermeiden.",
+    "Er zwingt arme Gemeinden zur Erledigung ihrer Pflichten (Schulen, Altersheime, usw.).",
+    "Er unterstützt arme Gemeinden oder Gemeinden mit hohen Sozialausgaben bei der\nErledigung ihrer Aufgaben."
+  ],
+  "CorrectAnswer": "Er unterstützt arme Gemeinden oder Gemeinden mit hohen Sozialausgaben bei der\nErledigung ihrer Aufgaben."
+}

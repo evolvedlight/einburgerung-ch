@@ -1,0 +1,10 @@
+{
+  "Question": "Welche Pflicht gilt in der Schweiz nur für Männer?",
+  "PossibleAnswers": [
+    "Männer müssen bis zu einem bestimmten Alter Militärdienst oder Zivilschutzdienst\nleisten.",
+    "Männer müssen bei Bedarf ein politisches Amt übernehmen.",
+    "Männer müssen für den Unterhalt der Familie sorgen.",
+    "Männer müssen mehr Steuern und Krankenkassenprämien bezahlen."
+  ],
+  "CorrectAnswer": "Männer müssen bis zu einem bestimmten Alter Militärdienst oder Zivilschutzdienst\nleisten."
+}

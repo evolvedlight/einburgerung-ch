@@ -1,0 +1,10 @@
+{
+  "Question": "In der Schweiz gibt es verschiedene Gesetze. Welches regelt, ob je-\nmand ins Gefängnis muss?",
+  "PossibleAnswers": [
+    "Obligationenrecht (OR)",
+    "Zivilgesetzbuch (ZGB)",
+    "Strafgesetzbuch (StGB)",
+    "Bundesgesetz über Schuldbetreibung und Konkurs (SchKG)"
+  ],
+  "CorrectAnswer": "Strafgesetzbuch (StGB)"
+}

@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist die dritte Säule der Altersvorsorge?",
+  "PossibleAnswers": [
+    "die private Vorsorge",
+    "der Dienstleistungssektor",
+    "die Invalidenversicherung",
+    "der Erwerbsersatz"
+  ],
+  "CorrectAnswer": "die private Vorsorge"
+}

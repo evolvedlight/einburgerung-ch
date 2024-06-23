@@ -1,0 +1,10 @@
+{
+  "Question": "Welche Pflichten haben Einwohnerinnen und Einwohner der Schweiz?",
+  "PossibleAnswers": [
+    "Sie müssen eine Weiterbildung machen.",
+    "Sie müssen Mitglied einer Kirche sein.",
+    "Sie müssen sich in der Gemeinde anmelden.",
+    "Sie müssen ein Telefon haben."
+  ],
+  "CorrectAnswer": "Sie müssen sich in der Gemeinde anmelden."
+}

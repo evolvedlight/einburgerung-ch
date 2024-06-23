@@ -1,0 +1,10 @@
+{
+  "Question": "Wer zählt bei politischen Abstimmungen die Stimmzettel?",
+  "PossibleAnswers": [
+    "das Militärbüro",
+    "das Wahlbüro",
+    "die Stimmbürgerinnen und Stimmbürger selber",
+    "die Polizei"
+  ],
+  "CorrectAnswer": "das Wahlbüro"
+}

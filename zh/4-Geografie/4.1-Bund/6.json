@@ -1,0 +1,10 @@
+{
+  "Question": "Über das Eisenbahnnetz der Schweiz sagt man, ...",
+  "PossibleAnswers": [
+    "es sei das schönste der Welt.",
+    "es sei das dichteste der Welt.",
+    "es sei das längste der Welt.",
+    "es sei das billigste der Welt."
+  ],
+  "CorrectAnswer": "es sei das dichteste der Welt."
+}

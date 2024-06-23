@@ -1,0 +1,10 @@
+{
+  "Question": "Wer muss beim Zivilstandsamt den Heiratswillen melden?",
+  "PossibleAnswers": [
+    "nur der Mann allein",
+    "nur die Eltern",
+    "das verlobte Paar gemeinsam",
+    "nur die Frau allein"
+  ],
+  "CorrectAnswer": "das verlobte Paar gemeinsam"
+}

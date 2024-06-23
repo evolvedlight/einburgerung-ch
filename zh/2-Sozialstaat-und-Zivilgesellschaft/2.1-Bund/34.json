@@ -1,0 +1,10 @@
+{
+  "Question": "Wer entscheidet darüber, in welche Klasse ein Kind in der Primar-\nschule kommt?",
+  "PossibleAnswers": [
+    "die Eltern",
+    "die Schulleitung oder die Schulpflege",
+    "die Kinderärztin oder der Kinderarzt",
+    "die Kinder selbst"
+  ],
+  "CorrectAnswer": "die Schulleitung oder die Schulpflege"
+}

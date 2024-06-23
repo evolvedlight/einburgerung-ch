@@ -1,0 +1,10 @@
+{
+  "Question": "Welcher Kanton hat die grösste Fläche?",
+  "PossibleAnswers": [
+    "Basel",
+    "Graubünden",
+    "Zürich",
+    "Glarus"
+  ],
+  "CorrectAnswer": "Graubünden"
+}

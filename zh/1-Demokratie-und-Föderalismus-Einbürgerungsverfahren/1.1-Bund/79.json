@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist in der Schweiz verboten?",
+  "PossibleAnswers": [
+    "Man darf keine falschen Behauptungen über Personen öffentlich verbreiten.",
+    "Man darf die Regierung nicht öffentlich kritisieren.",
+    "Man darf eine geschlossene Ehe nicht auflösen.",
+    "Man darf nicht an Demonstrationen teilnehmen."
+  ],
+  "CorrectAnswer": "Man darf keine falschen Behauptungen über Personen öffentlich verbreiten."
+}

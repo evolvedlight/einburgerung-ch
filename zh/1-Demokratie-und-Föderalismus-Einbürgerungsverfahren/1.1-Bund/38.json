@@ -1,0 +1,10 @@
+{
+  "Question": "Das Bundeshaus in Bern ist der Sitz ...",
+  "PossibleAnswers": [
+    "des Nationalmuseums.",
+    "der Bundesversammlung (Schweizer Parlament).",
+    "der Universität.",
+    "des Schweizer Fernsehens."
+  ],
+  "CorrectAnswer": "der Bundesversammlung (Schweizer Parlament)."
+}

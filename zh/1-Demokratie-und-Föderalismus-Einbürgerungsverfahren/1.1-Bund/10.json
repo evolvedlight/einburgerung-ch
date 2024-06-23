@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist eine Partei?",
+  "PossibleAnswers": [
+    "ein Zusammenschluss von Menschen aus der gleichen Stadt oder dem gleichen Dorf",
+    "ein Zusammenschluss von Menschen mit ähnlichen politischen Zielen",
+    "ein Zusammenschluss von Menschen mit unterschiedlichen Weltanschauungen",
+    "ein Zusammenschluss von Nationalräten oder Ständeräten, um die Mehrheit zu er-\nreichen"
+  ],
+  "CorrectAnswer": "ein Zusammenschluss von Menschen mit ähnlichen politischen Zielen"
+}

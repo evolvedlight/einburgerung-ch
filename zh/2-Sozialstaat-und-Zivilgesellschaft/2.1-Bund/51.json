@@ -1,0 +1,10 @@
+{
+  "Question": "Wann hat man als Arbeitnehmerin oder Arbeitnehmer Anrecht auf be-\nzahlte freie Stunden oder Tage am Arbeitsplatz?",
+  "PossibleAnswers": [
+    "bei Stromausfall",
+    "für die Ausübung eines öffentlichen Amtes",
+    "für die Erledigung von Administration auf der Bank oder Post",
+    "bei der Einschulung der eigenen Kinder"
+  ],
+  "CorrectAnswer": "für die Ausübung eines öffentlichen Amtes"
+}

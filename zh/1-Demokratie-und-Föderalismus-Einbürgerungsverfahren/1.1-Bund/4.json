@@ -1,0 +1,10 @@
+{
+  "Question": "Zwischen den Mitgliedern des Bundesrats gilt das Kollegialitätsprin-\nzip. Was heisst das?",
+  "PossibleAnswers": [
+    "Die Mitglieder des Bundesrates müssen sich gut kennen.",
+    "Jeder Bundesrat vertritt seine eigenen politischen Meinungen.",
+    "Alle Mitglieder müssen Entscheide des Bundesrates nach aussen gleich vertreten.",
+    "Der Bundesrat Entscheidungen mit Abstimmung."
+  ],
+  "CorrectAnswer": "Alle Mitglieder müssen Entscheide des Bundesrates nach aussen gleich vertreten."
+}

@@ -1,0 +1,10 @@
+{
+  "Question": "Welcher Kanton ist erst seit 1979 ein eigenständiger Kanton?",
+  "PossibleAnswers": [
+    "St. Gallen",
+    "Jura",
+    "Zürich",
+    "Solothurn"
+  ],
+  "CorrectAnswer": "Jura"
+}

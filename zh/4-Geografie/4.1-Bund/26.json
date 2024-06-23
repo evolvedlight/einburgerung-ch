@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist eine wichtige natürliche Ressource der Schweiz?",
+  "PossibleAnswers": [
+    "grosse Goldvorkommen in der Zentralschweiz",
+    "grosse Wasservorräte zum Betrieb von Wasserkraftwerken",
+    "wertvolle Bodenschätze (Erdöl, Kohle)",
+    "grosser Bestand an Fischen"
+  ],
+  "CorrectAnswer": "grosse Wasservorräte zum Betrieb von Wasserkraftwerken"
+}

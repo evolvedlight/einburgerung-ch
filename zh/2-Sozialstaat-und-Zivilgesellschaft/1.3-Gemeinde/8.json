@@ -1,0 +1,10 @@
+{
+  "Question": "Wofür ist die Gemeinde zuständig?",
+  "PossibleAnswers": [
+    "Fachhochschulen",
+    "Geldpolitik",
+    "Zivildienst",
+    "Einwohnerkontrolle"
+  ],
+  "CorrectAnswer": "Einwohnerkontrolle"
+}

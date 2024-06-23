@@ -1,0 +1,10 @@
+{
+  "Question": "Wer beschliesst ein Grossteil der neuen Gesetze auf Bundesebene?",
+  "PossibleAnswers": [
+    "das Bundesgericht",
+    "die Kantone",
+    "der Nationalrat und der Ständerat",
+    "der Bundesrat"
+  ],
+  "CorrectAnswer": "der Nationalrat und der Ständerat"
+}

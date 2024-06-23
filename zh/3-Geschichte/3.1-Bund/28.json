@@ -1,0 +1,10 @@
+{
+  "Question": "Welche Erfindung hat die Schweizer Industrie im 18. Jahrhundert\ngrundlegend verändert?",
+  "PossibleAnswers": [
+    "der Benzinmotor (Otto-Motor)",
+    "die Dampfmaschine",
+    "der Elektromotor",
+    "der Computer"
+  ],
+  "CorrectAnswer": "die Dampfmaschine"
+}

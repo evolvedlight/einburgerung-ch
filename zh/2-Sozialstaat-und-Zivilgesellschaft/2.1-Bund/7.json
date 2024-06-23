@@ -1,0 +1,10 @@
+{
+  "Question": "Für was steht in der Schweiz die Nummer 117?",
+  "PossibleAnswers": [
+    "für den Polizeinotruf",
+    "für die Auskunft",
+    "für die Abfallentsorgungsstelle",
+    "für den Pannendienst"
+  ],
+  "CorrectAnswer": "für den Polizeinotruf"
+}

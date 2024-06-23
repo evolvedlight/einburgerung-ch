@@ -1,0 +1,10 @@
+{
+  "Question": "Wer darf Kriminelle verhaften?",
+  "PossibleAnswers": [
+    "Zeuginnen und Zeugen eines Verbrechens",
+    "der Gemeinderat",
+    "die Polizei",
+    "die Bürgerwehr"
+  ],
+  "CorrectAnswer": "die Polizei"
+}

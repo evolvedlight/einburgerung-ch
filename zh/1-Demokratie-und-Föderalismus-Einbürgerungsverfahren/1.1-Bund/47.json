@@ -1,0 +1,10 @@
+{
+  "Question": "Wann ist eine Initiative auf Bundesebene angenommen?",
+  "PossibleAnswers": [
+    "Bei Ständemehr",
+    "Bei Volksmehr",
+    "Bei Volksmehr und Ständemehr",
+    "Bei Volksmehr und mindestens einem Drittel der Stände"
+  ],
+  "CorrectAnswer": "Bei Volksmehr und Ständemehr"
+}

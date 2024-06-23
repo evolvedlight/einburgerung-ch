@@ -1,0 +1,10 @@
+{
+  "Question": "Wer kann auf Bundesebene in ein politisches Amt gewählt werden?",
+  "PossibleAnswers": [
+    "wer eine Arbeit hat",
+    "wer in der Schweiz lebt",
+    "wer das Schweizer Bürgerrecht hat und volljährig ist",
+    "wer mindestens zwei Landessprachen spricht"
+  ],
+  "CorrectAnswer": "wer das Schweizer Bürgerrecht hat und volljährig ist"
+}

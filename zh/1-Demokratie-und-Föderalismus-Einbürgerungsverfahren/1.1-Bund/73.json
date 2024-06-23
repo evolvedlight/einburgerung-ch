@@ -1,0 +1,10 @@
+{
+  "Question": "Was bedeutet Gewaltenteilung?",
+  "PossibleAnswers": [
+    "Polizei und Militär dürfen beide Gewalt anwenden.",
+    "Die Verteilung der Macht auf Staat und Kirche.",
+    "Die Verteilung der Staatsgewalt auf verschiedene Staatsorgane wie Regierung, Par-\nlament und Gerichte.",
+    "Die Verteilung der Macht auf den Nationalrat und den Ständerat."
+  ],
+  "CorrectAnswer": "Die Verteilung der Staatsgewalt auf verschiedene Staatsorgane wie Regierung, Par-\nlament und Gerichte."
+}

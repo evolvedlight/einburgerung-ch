@@ -1,0 +1,10 @@
+{
+  "Question": "Welches Recht bekommen Personen erst mit der Einbürgerung?",
+  "PossibleAnswers": [
+    "Sie dürfen einem Verein beitreten.",
+    "Sie dürfen an politischen Wahlen und Abstimmungen auf Bundesebene teilnehmen.",
+    "Sie dürfen eine Wohnung kaufen.",
+    "Sie dürfen den Arbeitsplatz frei wählen."
+  ],
+  "CorrectAnswer": "Sie dürfen an politischen Wahlen und Abstimmungen auf Bundesebene teilnehmen."
+}

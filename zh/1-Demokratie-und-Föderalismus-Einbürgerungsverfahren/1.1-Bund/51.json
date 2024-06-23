@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist eine wichtige Aufgabe des Bundesstaats?",
+  "PossibleAnswers": [
+    "Er sorgt für soziale Sicherheit.",
+    "Er organisiert die Arbeit in Fabriken und Betrieben.",
+    "Er garantiert günstigen Wohnraum für alle.",
+    "Er gibt verschiedene Tageszeitungen in allen Landessprachen heraus."
+  ],
+  "CorrectAnswer": "Er sorgt für soziale Sicherheit."
+}

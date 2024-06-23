@@ -1,0 +1,10 @@
+{
+  "Question": "Was verbietet die Schweizer Bundesverfassung?",
+  "PossibleAnswers": [
+    "Man darf im öffentlichen Raum keine religiösen Zeichen tragen.",
+    "Man darf keine Sammelaktionen für notleidende Menschen durchführen.",
+    "Es darf niemand gefoltert werden.",
+    "Man darf nicht ohne Lohn arbeiten."
+  ],
+  "CorrectAnswer": "Es darf niemand gefoltert werden."
+}

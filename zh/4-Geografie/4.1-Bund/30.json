@@ -1,0 +1,10 @@
+{
+  "Question": "In welchem Kanton spricht man Rätoromanisch?",
+  "PossibleAnswers": [
+    "Freiburg",
+    "Appenzell",
+    "Glarus",
+    "Graubünden"
+  ],
+  "CorrectAnswer": "Graubünden"
+}

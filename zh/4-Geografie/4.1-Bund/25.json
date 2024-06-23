@@ -1,0 +1,10 @@
+{
+  "Question": "Wie gross ist der Anteil der ausländischen Wohnbevölkerung in der\nSchweiz (Stand 2020)?",
+  "PossibleAnswers": [
+    "10%",
+    "60%",
+    "25%",
+    "40%"
+  ],
+  "CorrectAnswer": "25%"
+}

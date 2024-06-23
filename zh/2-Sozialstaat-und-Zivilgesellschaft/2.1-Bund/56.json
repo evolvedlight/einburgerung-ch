@@ -1,0 +1,10 @@
+{
+  "Question": "Unter welchen Voraussetzungen darf man in der Schweiz heiraten?",
+  "PossibleAnswers": [
+    "Die Braut muss schwanger sein.",
+    "Man muss 18 Jahre alt und urteilsfähig sein.",
+    "Man muss über ein Mindesteinkommen verfügen.",
+    "Die Eltern müssen einverstanden sein."
+  ],
+  "CorrectAnswer": "Man muss 18 Jahre alt und urteilsfähig sein."
+}

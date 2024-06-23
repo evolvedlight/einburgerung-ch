@@ -1,0 +1,10 @@
+{
+  "Question": "Wie werden die Mitglieder der Zürcher Regierung bestimmt?",
+  "PossibleAnswers": [
+    "Sie werden von den Parteien ernannt.",
+    "Sie werden vom Kantonsrat gewählt.",
+    "Sie werden auf Parteiversammlungen gewählt.",
+    "Sie werden von den Zürcher Stimmbürgerinnen und Stimmbürgern gewählt."
+  ],
+  "CorrectAnswer": "Sie werden von den Zürcher Stimmbürgerinnen und Stimmbürgern gewählt."
+}

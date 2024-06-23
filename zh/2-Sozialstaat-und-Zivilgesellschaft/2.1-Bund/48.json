@@ -1,0 +1,10 @@
+{
+  "Question": "Wer bezahlt keine Prämien für Arbeitslosenversicherung?",
+  "PossibleAnswers": [
+    "Personen in der Berufsausbildung",
+    "Pensionierte",
+    "Arbeitnehmerinnen und Arbeitnehmer",
+    "alle Personen ab 50 Jahren"
+  ],
+  "CorrectAnswer": "Pensionierte"
+}

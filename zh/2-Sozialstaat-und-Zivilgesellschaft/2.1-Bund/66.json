@@ -1,0 +1,10 @@
+{
+  "Question": "Wo muss man in der Schweiz obligatorisch Mitglied sein?",
+  "PossibleAnswers": [
+    "in einer Partei",
+    "in einem Sportverein",
+    "in einer Krankenkasse",
+    "in einem Automobilclub oder Veloclub"
+  ],
+  "CorrectAnswer": "in einer Krankenkasse"
+}

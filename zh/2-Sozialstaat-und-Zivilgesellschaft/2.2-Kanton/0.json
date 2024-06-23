@@ -1,0 +1,10 @@
+{
+  "Question": "Was gehört zu den wichtigsten Kantonssteuern und Gemeindesteu-\nern?",
+  "PossibleAnswers": [
+    "Vermögenssteuer",
+    "Tabaksteuer",
+    "Privatsteuer",
+    "Handysteuer"
+  ],
+  "CorrectAnswer": "Vermögenssteuer"
+}

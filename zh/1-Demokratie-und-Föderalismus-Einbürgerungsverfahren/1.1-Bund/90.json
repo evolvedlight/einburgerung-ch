@@ -1,0 +1,10 @@
+{
+  "Question": "Was geschieht in der Schweiz, wenn jemand eine Straftat begeht?",
+  "PossibleAnswers": [
+    "Wer gegen ein Gesetz verstossen hat, wird bestraft.",
+    "Wer Opfer eines Verbrechens geworden ist, darf sich selber rächen.",
+    "Wer sich selbst anzeigt, bleibt straffrei.",
+    "Die Opfer eines Verbrechens können zwischen verschiedenen Strafen wählen."
+  ],
+  "CorrectAnswer": "Wer gegen ein Gesetz verstossen hat, wird bestraft."
+}

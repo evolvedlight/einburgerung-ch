@@ -1,0 +1,10 @@
+{
+  "Question": "Was bedeutet das aktive Wahlrecht in der Demokratie?",
+  "PossibleAnswers": [
+    "Man darf nur wählen und abstimmen, wenn man in einer politischen Partei aktiv ist.",
+    "Man kann in ein politisches Amt gewählt werden.",
+    "Man darf wählen und abstimmen.",
+    "Man muss beim Auszählen der Stimmen helfen."
+  ],
+  "CorrectAnswer": "Man darf wählen und abstimmen."
+}

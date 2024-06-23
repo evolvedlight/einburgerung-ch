@@ -1,0 +1,10 @@
+{
+  "Question": "Die Steuererklärung ...",
+  "PossibleAnswers": [
+    "beschreibt das Vorgehen bei Abgabe der Steuer.",
+    "weist die finanzielle Situation des Steuerzahlenden gegenüber der Steuerbehörde\naus.",
+    "belegt gegenüber der Steuerbehörde die Lotteriegewinne.",
+    "beschreibt, wie man die Formulare für die Steuerbehörde ausfüllen muss."
+  ],
+  "CorrectAnswer": "weist die finanzielle Situation des Steuerzahlenden gegenüber der Steuerbehörde\naus."
+}

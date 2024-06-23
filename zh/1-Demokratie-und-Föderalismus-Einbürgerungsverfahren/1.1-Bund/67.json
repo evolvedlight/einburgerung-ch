@@ -1,0 +1,10 @@
+{
+  "Question": "Wer hat auf Bundesebene die gesetzgebende Gewalt (Legislative)?",
+  "PossibleAnswers": [
+    "der Bundesrat",
+    "der Militärrat",
+    "das Bundesparlament (Nationalrat und Ständerat)",
+    "das Bundesgericht"
+  ],
+  "CorrectAnswer": "das Bundesparlament (Nationalrat und Ständerat)"
+}

@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist die zentrale Aufgabe der Bundesversammlung (Bundesparla-\nment)?",
+  "PossibleAnswers": [
+    "Sie organisiert Wahlen und Abstimmungen.",
+    "Sie berät und beschliesst Gesetze.",
+    "Sie führt die Regierungsgeschäfte in der Schweiz.",
+    "Sie fällt Gerichtsurteile in letzter Instanz."
+  ],
+  "CorrectAnswer": "Sie berät und beschliesst Gesetze."
+}

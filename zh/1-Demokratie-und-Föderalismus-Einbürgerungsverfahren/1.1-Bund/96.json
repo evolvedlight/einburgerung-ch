@@ -1,0 +1,10 @@
+{
+  "Question": "Dürfen Schweizer Bürgerinnen und Bürger an andere Länder ausgelie-\nfert werden?",
+  "PossibleAnswers": [
+    "Nein. Dies ist unter keinen Umständen erlaubt.",
+    "Ja, aber nur an Länder welche demokratisch organisiert sind.",
+    "Ja, aber nur wenn die Straftat auch in der Schweiz strafbar ist.",
+    "Grundsätzlich nicht. Ausgenommen für Prozesse vor internationalen Gerichten."
+  ],
+  "CorrectAnswer": "Grundsätzlich nicht. Ausgenommen für Prozesse vor internationalen Gerichten."
+}

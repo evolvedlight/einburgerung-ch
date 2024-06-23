@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist die vierte Landessprache der Schweiz?",
+  "PossibleAnswers": [
+    "Elsässisch",
+    "Rätoromanisch",
+    "Englisch",
+    "Portugiesisch"
+  ],
+  "CorrectAnswer": "Rätoromanisch"
+}

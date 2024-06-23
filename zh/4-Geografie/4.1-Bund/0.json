@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist am Gotthard-Basis-Tunnel speziell?",
+  "PossibleAnswers": [
+    "Er war der erste Tunnel in Europa.",
+    "Er ist der einzige Eisenbahntunnel Europas.",
+    "Er ist der längste Eisenbahntunnel der Welt.",
+    "Er hat den grössten Tunneldurchmesser der Welt."
+  ],
+  "CorrectAnswer": "Er ist der längste Eisenbahntunnel der Welt."
+}

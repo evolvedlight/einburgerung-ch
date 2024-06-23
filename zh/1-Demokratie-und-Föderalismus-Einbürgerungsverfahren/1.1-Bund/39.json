@@ -1,0 +1,10 @@
+{
+  "Question": "Wie heisst die Exekutive in der Schweiz auf Bundesebene?",
+  "PossibleAnswers": [
+    "Grosser Rat",
+    "Generalrat",
+    "Bundesrat",
+    "Landrat"
+  ],
+  "CorrectAnswer": "Bundesrat"
+}

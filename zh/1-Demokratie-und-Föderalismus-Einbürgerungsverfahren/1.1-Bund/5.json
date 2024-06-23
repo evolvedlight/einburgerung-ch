@@ -1,0 +1,10 @@
+{
+  "Question": "Können die Stimmbürgerinnen und Stimmbürger ein neues Gesetz\nstoppen?",
+  "PossibleAnswers": [
+    "Ja - mit einer Initiative",
+    "Nein - nur der Bundesrat kann Gesetze ändern",
+    "Nein - nur der Nationalrat kann Gesetze ändern",
+    "Ja - mit einem Referendum"
+  ],
+  "CorrectAnswer": "Ja - mit einem Referendum"
+}

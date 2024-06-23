@@ -1,0 +1,10 @@
+{
+  "Question": "Welchen Nachnamen bekommt ein Kind von verheirateten Eltern?",
+  "PossibleAnswers": [
+    "immer einen Doppelnamen mit dem Namen der Mutter zuerst",
+    "immer den Namen des Vaters",
+    "immer den Namen der Mutter",
+    "muss von den Eltern ohne gemeinsamen Familiennamen bei der Heirat entschieden\nwerden"
+  ],
+  "CorrectAnswer": "muss von den Eltern ohne gemeinsamen Familiennamen bei der Heirat entschieden\nwerden"
+}

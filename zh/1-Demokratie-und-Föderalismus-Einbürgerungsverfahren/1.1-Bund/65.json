@@ -1,0 +1,10 @@
+{
+  "Question": "Wer darf in der Schweiz Gewalt gegen Menschen und Sachen ausüben\n(Gewaltmonopol)?",
+  "PossibleAnswers": [
+    "betroffene Bürgerinnen und Bürger",
+    "die Parteien",
+    "die Medien",
+    "der Staat (Polizei, Militär)"
+  ],
+  "CorrectAnswer": "der Staat (Polizei, Militär)"
+}

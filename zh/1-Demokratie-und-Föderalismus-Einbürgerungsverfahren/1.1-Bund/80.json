@@ -1,0 +1,10 @@
+{
+  "Question": "Jemand bekommt wegen seiner Hautfarbe oder seinem Geschlecht\neine Arbeitsstelle nicht. Welches Grundrecht wird damit verletzt?",
+  "PossibleAnswers": [
+    "das Recht auf freie Meinungsäusserung",
+    "die Niederlassungsfreiheit",
+    "das Recht auf rechtsgleiche Behandlung (Diskriminierungsverbot)",
+    "das Recht auf Bildung"
+  ],
+  "CorrectAnswer": "das Recht auf rechtsgleiche Behandlung (Diskriminierungsverbot)"
+}

@@ -1,0 +1,10 @@
+{
+  "Question": "Welche Unterstützung gibt die Gemeinde, wenn das eigene Einkom-\nmen oder Vermögen für den Lebensunterhalt nicht ausreicht?",
+  "PossibleAnswers": [
+    "Geld für Mahlzeiten (Kostgeld)",
+    "einen Gemeindebeitrag (Gemeinderappen)",
+    "Sozialhilfe",
+    "Kantonsgeld"
+  ],
+  "CorrectAnswer": "Sozialhilfe"
+}

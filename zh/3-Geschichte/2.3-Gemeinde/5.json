@@ -1,0 +1,10 @@
+{
+  "Question": "Wer ist zuständig für die Finanzierung und Organisation der Primar-\nschule?",
+  "PossibleAnswers": [
+    "die Eltern",
+    "der Kanton mit den Gemeinden",
+    "der Bund",
+    "der Schulkreis"
+  ],
+  "CorrectAnswer": "der Kanton mit den Gemeinden"
+}

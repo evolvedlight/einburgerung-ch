@@ -1,0 +1,10 @@
+{
+  "Question": "Wie unterstützt der Staat in der Schweiz die Familien?",
+  "PossibleAnswers": [
+    "Es gibt keine Unterstützung.",
+    "mit kostenlosem Internet",
+    "mit kostengünstigen Lebensmitteln",
+    "mit Steuerabzügen"
+  ],
+  "CorrectAnswer": "mit Steuerabzügen"
+}

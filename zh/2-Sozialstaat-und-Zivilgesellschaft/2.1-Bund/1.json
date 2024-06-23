@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist ein Arbeitszeugnis?",
+  "PossibleAnswers": [
+    "eine Liste aller bisherigen Arbeitsstellen eines Arbeitsnehmers",
+    "eine vom Arbeitnehmer bewertete Leistung des Arbeitsgebers",
+    "ein Vertrag zwischen Arbeitnehmer-Verbänden und Arbeitgeber-Verbänden über die\nArbeitsbedingungen in einer bestimmten Branche",
+    "vom Arbeitgeber ausgestellte Urkunde, die Auskunft über die Leistung und das Ver-\nhalten des Arbeitnehmers macht"
+  ],
+  "CorrectAnswer": "vom Arbeitgeber ausgestellte Urkunde, die Auskunft über die Leistung und das Ver-\nhalten des Arbeitnehmers macht"
+}

@@ -1,0 +1,10 @@
+{
+  "Question": "Wer war Wilhelm Tell?",
+  "PossibleAnswers": [
+    "ein eidgenössischer Söldner in fremden Diensten",
+    "eine Innerschweizer Sagenfigur, die gegen fremde Herrscher kämpfte",
+    "ein adliger Grundherr im Schweizer Mittelland",
+    "ein Anführer im Bauernkrieg"
+  ],
+  "CorrectAnswer": "eine Innerschweizer Sagenfigur, die gegen fremde Herrscher kämpfte"
+}

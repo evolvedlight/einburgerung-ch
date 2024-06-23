@@ -1,0 +1,10 @@
+{
+  "Question": "Wer in der Schweiz wählen und abstimmen will, ...",
+  "PossibleAnswers": [
+    "muss das Schweizer Bürgerrecht haben.",
+    "muss einen Computer haben.",
+    "muss in der Schweiz geboren sein.",
+    "muss mehr Steuern zahlen."
+  ],
+  "CorrectAnswer": "muss das Schweizer Bürgerrecht haben."
+}

@@ -1,0 +1,10 @@
+{
+  "Question": "Eine Angestellte darf nicht entlassen werden, wenn sie ...",
+  "PossibleAnswers": [
+    "immer pünktlich war.",
+    "die Kündigung ablehnt.",
+    "schwanger ist.",
+    "schon lange im Betrieb gearbeitet hat."
+  ],
+  "CorrectAnswer": "schwanger ist."
+}

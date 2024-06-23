@@ -1,0 +1,10 @@
+{
+  "Question": "Wer war die erste Frau im Schweizer Bundesrat?",
+  "PossibleAnswers": [
+    "Ruth Dreifuss",
+    "Elisabeth Kopp",
+    "Ruth Metzler",
+    "Micheline Calmy-Rey"
+  ],
+  "CorrectAnswer": "Elisabeth Kopp"
+}

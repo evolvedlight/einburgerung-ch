@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist ein Quartierverein?",
+  "PossibleAnswers": [
+    "Ein Verein, der die Rechte eines Quartiers gegenüber dem Bund und dem Kanton\nregelt.",
+    "Ein Verein, der für die Interessen der Bewohnerinnen und Bewohner eines Quartiers\ngegenüber Behörden eintritt und das gesellschaftliche Leben fördert.",
+    "Ein Verein, in dem Bewohnerinnen und Bewohner eines Quartiers automatisch Mit-\nglied sind.",
+    "Ein Verein, der die Verkehrswege innerhalb eines Quartiers regelt und die Einhal-\ntung der Verkehrsvorschriften kontrolliert."
+  ],
+  "CorrectAnswer": "Ein Verein, der für die Interessen der Bewohnerinnen und Bewohner eines Quartiers\ngegenüber Behörden eintritt und das gesellschaftliche Leben fördert."
+}

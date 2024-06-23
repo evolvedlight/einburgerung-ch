@@ -1,0 +1,10 @@
+{
+  "Question": "In der Schweiz gibt es verschiedene Gesetze. Was regelt das Zivilge-\nsetzbuch (ZGB)?",
+  "PossibleAnswers": [
+    "Eheschliessungen und Scheidungen",
+    "Firmengründungen",
+    "Strafen bei Mord und Totschlag",
+    "Staatsverträge"
+  ],
+  "CorrectAnswer": "Eheschliessungen und Scheidungen"
+}

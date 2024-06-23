@@ -1,0 +1,10 @@
+{
+  "Question": "Mann und Frau sind gleichberechtigt. Seit wann ist dieser Satz in der\nVerfassung?",
+  "PossibleAnswers": [
+    "seit 1981",
+    "seit 1968",
+    "seit 1996",
+    "seit 1945"
+  ],
+  "CorrectAnswer": "seit 1981"
+}

@@ -1,0 +1,10 @@
+{
+  "Question": "Die Bundesversammlung besteht aus 246 Mitgliedern. Wer wählt diese\nMitglieder?",
+  "PossibleAnswers": [
+    "die wahlberechtigten Bürgerinnen und Bürger",
+    "die Parteien",
+    "alle Einwohnerinnen und Einwohner der Schweiz",
+    "eine Wahlkommission"
+  ],
+  "CorrectAnswer": "die wahlberechtigten Bürgerinnen und Bürger"
+}

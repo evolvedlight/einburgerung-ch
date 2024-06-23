@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist ein Grundrecht in der Schweiz?",
+  "PossibleAnswers": [
+    "Tierhaltung",
+    "Meinungs- und Informationsfreiheit",
+    "kostenloser Fernsehzugang",
+    "WLAN-Zugang"
+  ],
+  "CorrectAnswer": "Meinungs- und Informationsfreiheit"
+}

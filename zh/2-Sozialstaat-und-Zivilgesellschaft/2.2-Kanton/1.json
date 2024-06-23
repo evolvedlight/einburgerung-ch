@@ -1,0 +1,10 @@
+{
+  "Question": "Was gehört zu den wichtigsten Kantonssteuern und Gemeindesteuern?",
+  "PossibleAnswers": [
+    "Verrechnungssteuer",
+    "Alkoholsteuer",
+    "Zölle",
+    "Einkommenssteuer"
+  ],
+  "CorrectAnswer": "Einkommenssteuer"
+}

@@ -1,0 +1,10 @@
+{
+  "Question": "Wie oft wählen die Stimmbürgerinnen und Stimmbürger das Bun-\ndesparlament?",
+  "PossibleAnswers": [
+    "alle 6 Jahre",
+    "alle 2 Jahre",
+    "alle 4 Jahre",
+    "alle 7 Jahre"
+  ],
+  "CorrectAnswer": "alle 4 Jahre"
+}

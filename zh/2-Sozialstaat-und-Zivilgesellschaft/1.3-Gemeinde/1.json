@@ -1,0 +1,10 @@
+{
+  "Question": "Wer wählt den Gemeinderat der Stadt Zürich?",
+  "PossibleAnswers": [
+    "der Kantonsrat",
+    "der Regierungsrat",
+    "der Bezirksrat",
+    "das Volk"
+  ],
+  "CorrectAnswer": "das Volk"
+}

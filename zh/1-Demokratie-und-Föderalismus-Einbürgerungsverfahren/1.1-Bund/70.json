@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist die Aufgabe der Richterinnen und Richter?",
+  "PossibleAnswers": [
+    "Sie überwachen die Verwaltung.",
+    "Sie fällen Gerichtsurteile.",
+    "Sie verteidigen die Angeklagten.",
+    "Sie verfassen Gesetze."
+  ],
+  "CorrectAnswer": "Sie fällen Gerichtsurteile."
+}

@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist eine Aufgabe der Polizei?",
+  "PossibleAnswers": [
+    "Sie hilft bei der Steuererklärung.",
+    "Sie verfolgt Rechtsverletzungen.",
+    "Sie erlässt neue Gesetze.",
+    "Sie fällt Gerichtsurteile."
+  ],
+  "CorrectAnswer": "Sie verfolgt Rechtsverletzungen."
+}

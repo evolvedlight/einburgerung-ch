@@ -1,0 +1,10 @@
+{
+  "Question": "Wo muss man sich melden, wenn man umzieht?",
+  "PossibleAnswers": [
+    "bei den Steuerbehörden",
+    "bei der Polizei",
+    "bei der Gebäudeversicherung",
+    "bei der Gemeinde (Einwohnerkontrolle)"
+  ],
+  "CorrectAnswer": "bei der Gemeinde (Einwohnerkontrolle)"
+}

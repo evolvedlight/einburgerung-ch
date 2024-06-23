@@ -1,0 +1,10 @@
+{
+  "Question": "Die Schweiz ist neutral. Was heisst das?",
+  "PossibleAnswers": [
+    "Sie unterzeichnet keine internationalen Verträge.",
+    "Sie schliesst nur mit Staaten Verträge, die nicht in Kriege verwickelt sind.",
+    "Sie mischt sich nicht in bewaffnete Konflikte anderer Staaten ein.",
+    "Sie will als Transitland wirtschaftlich unabhängig sein."
+  ],
+  "CorrectAnswer": "Sie mischt sich nicht in bewaffnete Konflikte anderer Staaten ein."
+}

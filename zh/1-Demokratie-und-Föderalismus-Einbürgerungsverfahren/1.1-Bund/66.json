@@ -1,0 +1,10 @@
+{
+  "Question": "Wer hat auf Bundesebene die richterliche Gewalt (Judikative)?",
+  "PossibleAnswers": [
+    "die Parlamentarierinnen und Parlamentarier",
+    "das Bundesgericht",
+    "die Regierungen",
+    "das Militär"
+  ],
+  "CorrectAnswer": "das Bundesgericht"
+}

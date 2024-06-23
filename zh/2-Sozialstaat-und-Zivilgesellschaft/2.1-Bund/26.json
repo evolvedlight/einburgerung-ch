@@ -1,0 +1,10 @@
+{
+  "Question": "Was bedeutet die Abkürzung IV?",
+  "PossibleAnswers": [
+    "Interessensvertretung",
+    "Internationales Verfahren",
+    "Inakzeptables Vorkommen",
+    "Invalidenversicherung"
+  ],
+  "CorrectAnswer": "Invalidenversicherung"
+}

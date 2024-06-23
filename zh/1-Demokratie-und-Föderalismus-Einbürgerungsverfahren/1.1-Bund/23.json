@@ -1,0 +1,10 @@
+{
+  "Question": "Wie heisst die Verfassung der Schweizerischen Eidgenossenschaft?",
+  "PossibleAnswers": [
+    "Grundgesetz",
+    "Verfassungsvertrag",
+    "Bundesbrief",
+    "Bundesverfassung"
+  ],
+  "CorrectAnswer": "Bundesverfassung"
+}

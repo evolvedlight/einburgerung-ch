@@ -1,0 +1,10 @@
+{
+  "Question": "In welchem Kanton spricht man Französisch und Deutsch?",
+  "PossibleAnswers": [
+    "St. Gallen",
+    "Tessin",
+    "Graubünden",
+    "Freiburg"
+  ],
+  "CorrectAnswer": "Freiburg"
+}

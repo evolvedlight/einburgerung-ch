@@ -1,0 +1,10 @@
+{
+  "Question": "Wie heisst die Exekutive im Kanton Zürich?",
+  "PossibleAnswers": [
+    "Landammann",
+    "Regierungsrat",
+    "Ständerat",
+    "Es gibt keine Exekutive."
+  ],
+  "CorrectAnswer": "Regierungsrat"
+}

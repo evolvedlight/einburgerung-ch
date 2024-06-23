@@ -1,0 +1,10 @@
+{
+  "Question": "Wann dürfen Einwohnerinnen und Einwohner ohne Schweizer Pass an\nnationalen Abstimmungen teilnehmen?",
+  "PossibleAnswers": [
+    "nur bei Abstimmungen über Volksinitiativen",
+    "nur bei nationalen Referenden",
+    "Sie dürfen gar nicht abstimmen.",
+    "nur bei den Abstimmungen Ende Jahr"
+  ],
+  "CorrectAnswer": "Sie dürfen gar nicht abstimmen."
+}

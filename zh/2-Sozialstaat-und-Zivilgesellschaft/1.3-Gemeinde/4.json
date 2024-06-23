@@ -1,0 +1,10 @@
+{
+  "Question": "Für was sind die Gemeinden zuständig?",
+  "PossibleAnswers": [
+    "für die Organisation von privaten Geburtstagsfesten",
+    "für die Aussenpolitik",
+    "für die lokale Raumplanung",
+    "für das Militär"
+  ],
+  "CorrectAnswer": "für die lokale Raumplanung"
+}

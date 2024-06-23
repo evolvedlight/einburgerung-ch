@@ -1,0 +1,10 @@
+{
+  "Question": "An wen können sich Arbeitnehmerinnen und Arbeitnehmer bei arbeits-\nrechtlichen Fragen wenden?",
+  "PossibleAnswers": [
+    "an Anwälte, Gewerkschaften und Arbeitsgerichte",
+    "an die Steuerverwaltung",
+    "an die Polizei und die Einwohnerkontrolle der Gemeinde",
+    "an die Kirchgemeinde und den Zivilschutz"
+  ],
+  "CorrectAnswer": "an Anwälte, Gewerkschaften und Arbeitsgerichte"
+}

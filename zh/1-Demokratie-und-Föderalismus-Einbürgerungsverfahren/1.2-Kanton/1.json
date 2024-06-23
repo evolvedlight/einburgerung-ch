@@ -1,0 +1,10 @@
+{
+  "Question": "Wie heisst eine Direktion des Kanton Zürichs?",
+  "PossibleAnswers": [
+    "Tourismusdirektion",
+    "Baudirektion",
+    "Ernährungsdirektion",
+    "Militärdirektion"
+  ],
+  "CorrectAnswer": "Baudirektion"
+}

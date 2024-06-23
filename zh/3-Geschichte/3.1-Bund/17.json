@@ -1,0 +1,10 @@
+{
+  "Question": "Welche Urkantone schlossen sich 1291 zu einem Bündnis zusammen?",
+  "PossibleAnswers": [
+    "St. Gallen, Thurgau, Schaffhausen",
+    "Genf, Waadt, Freiburg",
+    "Bern, Zürich, Zug",
+    "Uri, Schwyz, Unterwalden"
+  ],
+  "CorrectAnswer": "Uri, Schwyz, Unterwalden"
+}

@@ -1,0 +1,10 @@
+{
+  "Question": "Was passiert an einer Gemeindeversammlung?",
+  "PossibleAnswers": [
+    "Die Stimmbürgerinnen und Stimmbürger entscheiden über das Budget.",
+    "Die Einwohnerinnen und Einwohner feiern ein Fest.",
+    "Die Stimmbürgerinnen und Stimmbürger wählen den Chef oder die Chefin der Feu-\nerwehr.",
+    "Die Stimmbürgerinnen und Stimmbürger beschliessen neue nationale Gesetze."
+  ],
+  "CorrectAnswer": "Die Stimmbürgerinnen und Stimmbürger entscheiden über das Budget."
+}

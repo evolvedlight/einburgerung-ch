@@ -1,0 +1,10 @@
+{
+  "Question": "Wo findet man Informationen über Lehrstellen, Beruf und Arbeit?",
+  "PossibleAnswers": [
+    "auf der Steuerverwaltung",
+    "im Bundesarchiv",
+    "im Staatssekretariat für Bildung, Forschung und Innovation",
+    "im Berufsinformationszentrum"
+  ],
+  "CorrectAnswer": "im Berufsinformationszentrum"
+}

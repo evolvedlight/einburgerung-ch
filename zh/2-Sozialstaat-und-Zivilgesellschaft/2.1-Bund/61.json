@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist eine Voraussetzung für eine Eheschliessung in der Schweiz?",
+  "PossibleAnswers": [
+    "Beide Partner müssen mindestens 16 Jahre alt sein.",
+    "Die Partner müssen bereits in einer eingetragenen Partnerschaft leben.",
+    "Die Partner müssen den gleichen Wohnsitz haben.",
+    "Die Partner dürfen nicht eng verwandt sein."
+  ],
+  "CorrectAnswer": "Die Partner dürfen nicht eng verwandt sein."
+}

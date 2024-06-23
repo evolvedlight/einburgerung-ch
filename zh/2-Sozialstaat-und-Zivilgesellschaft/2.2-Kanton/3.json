@@ -1,0 +1,10 @@
+{
+  "Question": "Wann beginnt die obligatorische Schulzeit im Kanton Zürich?",
+  "PossibleAnswers": [
+    "Kindergarten",
+    "Primarschule",
+    "Spielgruppe",
+    "Einführungsklasse"
+  ],
+  "CorrectAnswer": "Kindergarten"
+}

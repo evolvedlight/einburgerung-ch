@@ -1,0 +1,10 @@
+{
+  "Question": "Die drei grossen geografischen Räume der Schweiz sind:",
+  "PossibleAnswers": [
+    "Jura, Mittelland, Alpen",
+    "Rhonetal, Südtäler, Alpennordfuss",
+    "Rheintal, Rhonetal, Aaretal",
+    "Bündner Alpen, Innerschweizer Alpen, Berner Alpen"
+  ],
+  "CorrectAnswer": "Jura, Mittelland, Alpen"
+}

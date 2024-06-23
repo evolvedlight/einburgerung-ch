@@ -1,0 +1,10 @@
+{
+  "Question": "Welcher Feiertag gilt nach Gesetz für die ganze Schweiz?",
+  "PossibleAnswers": [
+    "1. August",
+    "Auffahrt",
+    "Karfreitag",
+    "1. Mai"
+  ],
+  "CorrectAnswer": "1. August"
+}

@@ -1,0 +1,10 @@
+{
+  "Question": "Was haben die Römer nach Zürich gebracht?",
+  "PossibleAnswers": [
+    "die Badekultur",
+    "Chinesisches Porzellan",
+    "das Alphorn",
+    "die Tropenhäuser des Botanischen Gartens"
+  ],
+  "CorrectAnswer": "die Badekultur"
+}

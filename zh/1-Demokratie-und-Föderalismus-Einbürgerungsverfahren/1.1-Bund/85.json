@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist in der Schweiz verboten?",
+  "PossibleAnswers": [
+    "die Arbeit des Bundesrats zu kritisieren",
+    "ohne Bewilligung Velo zu fahren",
+    "im öffentlichen Raum ein religiöses Zeichen zu tragen",
+    "andere Menschen wegen ihrer Herkunft oder Religion öffentlich zu beschimpfen"
+  ],
+  "CorrectAnswer": "andere Menschen wegen ihrer Herkunft oder Religion öffentlich zu beschimpfen"
+}

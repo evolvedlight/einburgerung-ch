@@ -1,0 +1,10 @@
+{
+  "Question": "In der Schweiz gibt es verschiedene Gesetze. Welches regelt das Mie-\nten von Wohnungen?",
+  "PossibleAnswers": [
+    "Obligationenrecht (OR)",
+    "Mehrwertsteuergesetz (MWSTG)",
+    "Strafgesetzbuch (StGB)",
+    "Bundesgesetz über Schuldbetreibung und Konkurs (SchKG)"
+  ],
+  "CorrectAnswer": "Obligationenrecht (OR)"
+}

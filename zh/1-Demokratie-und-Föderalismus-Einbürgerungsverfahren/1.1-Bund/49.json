@@ -1,0 +1,10 @@
+{
+  "Question": "Wie stimmen die meisten Stimmberechtigten ab?",
+  "PossibleAnswers": [
+    "per Gang an die Urne",
+    "per Internet",
+    "per Telefon",
+    "per Brief"
+  ],
+  "CorrectAnswer": "per Brief"
+}

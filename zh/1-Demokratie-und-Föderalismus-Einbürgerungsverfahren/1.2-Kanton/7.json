@@ -1,0 +1,10 @@
+{
+  "Question": "Für was sind die Kantone vor allem zuständig?",
+  "PossibleAnswers": [
+    "für die Leitung der kantonalen Verwaltung und für kantonale Gesetze",
+    "für die Innen- und Aussenpolitik auf nationaler Ebene",
+    "für die nationale Verteidigung (Militär)",
+    "für die Geldpolitik und die Zölle"
+  ],
+  "CorrectAnswer": "für die Leitung der kantonalen Verwaltung und für kantonale Gesetze"
+}

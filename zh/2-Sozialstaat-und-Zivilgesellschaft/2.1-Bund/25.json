@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist das RAV?",
+  "PossibleAnswers": [
+    "Regionales Arbeitsvermittlungszentrum",
+    "Rechtsstelle für Allgemeine Versicherungen",
+    "Institut für Rechtsfragen",
+    "Rentenanstalt"
+  ],
+  "CorrectAnswer": "Regionales Arbeitsvermittlungszentrum"
+}

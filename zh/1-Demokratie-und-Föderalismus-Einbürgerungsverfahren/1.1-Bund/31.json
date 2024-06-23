@@ -1,0 +1,10 @@
+{
+  "Question": "Gegen was kann man das Referendum ergreifen?",
+  "PossibleAnswers": [
+    "gegen Beschlüsse des Bundesrats",
+    "gegen Urteile des Bundesgerichts",
+    "gegen Gesetzesvorlagen von Nationalrat und Ständerat",
+    "gegen Massnahmen der Bundesverwaltung"
+  ],
+  "CorrectAnswer": "gegen Gesetzesvorlagen von Nationalrat und Ständerat"
+}

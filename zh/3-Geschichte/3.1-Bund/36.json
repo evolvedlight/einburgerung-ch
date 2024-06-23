@@ -1,0 +1,10 @@
+{
+  "Question": "In welcher Wirtschaftsbranche ist die Schweiz seit Jahrhunderten\nweltweit führend?",
+  "PossibleAnswers": [
+    "in der Textilindustrie",
+    "in der Uhrenindustrie",
+    "in der Autoindustrie",
+    "im Bergbau"
+  ],
+  "CorrectAnswer": "in der Uhrenindustrie"
+}

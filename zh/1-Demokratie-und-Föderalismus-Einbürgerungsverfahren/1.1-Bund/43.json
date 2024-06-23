@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist die Aufgabe des Ständerates?",
+  "PossibleAnswers": [
+    "Er hat nur eine repräsentative Funktion.",
+    "Er ist die höchste juristische Instanz.",
+    "Er vertritt vor allem die Interessen der Kantone.",
+    "Er koordiniert die Planung der Gemeinden."
+  ],
+  "CorrectAnswer": "Er vertritt vor allem die Interessen der Kantone."
+}

@@ -1,0 +1,10 @@
+{
+  "Question": "Wie heisst die höchste Bergspitze in der Schweiz?",
+  "PossibleAnswers": [
+    "Dom",
+    "Dufourspitze",
+    "Liskamm",
+    "Weisshorn"
+  ],
+  "CorrectAnswer": "Dufourspitze"
+}

@@ -1,0 +1,10 @@
+{
+  "Question": "Wer leitet die Volksschulen in den Zürcher Gemeinden?",
+  "PossibleAnswers": [
+    "der Elternrat",
+    "die Schulleitung",
+    "das Schulsekretariat",
+    "die Konferenz der Lehrpersonen"
+  ],
+  "CorrectAnswer": "die Schulleitung"
+}

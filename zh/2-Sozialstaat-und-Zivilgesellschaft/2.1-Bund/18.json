@@ -1,0 +1,10 @@
+{
+  "Question": "Welche staatliche Unterstützung bekommen alle Familien in der\nSchweiz?",
+  "PossibleAnswers": [
+    "keine Unterstützung",
+    "kostenlose Zugfahrten und Busfahrten",
+    "Stipendien für Jugendliche in Ausbildung",
+    "Kinderzulagen"
+  ],
+  "CorrectAnswer": "Kinderzulagen"
+}

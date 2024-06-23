@@ -1,0 +1,10 @@
+{
+  "Question": "Wer setzt sich für die Rechte von Arbeitnehmenden ein?",
+  "PossibleAnswers": [
+    "Kirchen",
+    "Gewerkschaften",
+    "Spitäler",
+    "Schulen"
+  ],
+  "CorrectAnswer": "Gewerkschaften"
+}

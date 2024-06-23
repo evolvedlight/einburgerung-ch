@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist eine Grenzgängerin oder ein Grenzgänger?",
+  "PossibleAnswers": [
+    "eine Person, die in der Schweiz arbeitet und im Ausland wohnt",
+    "eine Person, die nicht im gleichen Kanton wohnt und arbeitet",
+    "Schweizer Handelsware, die ins Ausland exportiert wird",
+    "Schweizer Handelsware, die vom Ausland in die Schweiz importiert wird"
+  ],
+  "CorrectAnswer": "eine Person, die in der Schweiz arbeitet und im Ausland wohnt"
+}

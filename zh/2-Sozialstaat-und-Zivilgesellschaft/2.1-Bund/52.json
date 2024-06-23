@@ -1,0 +1,10 @@
+{
+  "Question": "Was bedeutet MWST?",
+  "PossibleAnswers": [
+    "Meinungsfreiheit",
+    "mittlerer Wohlstand",
+    "Mehrwertsteuer",
+    "Mass für Wasserstand in Flüssen"
+  ],
+  "CorrectAnswer": "Mehrwertsteuer"
+}

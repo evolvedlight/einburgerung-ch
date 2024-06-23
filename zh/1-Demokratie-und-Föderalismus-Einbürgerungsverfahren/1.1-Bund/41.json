@@ -1,0 +1,10 @@
+{
+  "Question": "Welche Funktion haben die Parteien in einer Demokratie?",
+  "PossibleAnswers": [
+    "Sie vertreten verschiedene Interessen und Anliegen der Bevölkerung.",
+    "Sie wählen die Regierung.",
+    "Sie kontrollieren die Medien.",
+    "Sie vermitteln bei Streit zwischen verschiedenen Ämtern."
+  ],
+  "CorrectAnswer": "Sie vertreten verschiedene Interessen und Anliegen der Bevölkerung."
+}

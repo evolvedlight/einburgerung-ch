@@ -1,0 +1,10 @@
+{
+  "Question": "Welche Pflichten haben Einwohnerinnen und Einwohner der Schweiz?",
+  "PossibleAnswers": [
+    "Sie müssen Steuern bezahlen.",
+    "Sie müssen eine Lehre machen.",
+    "Sie müssen ein Bankkonto haben.",
+    "Sie müssen den Führerausweis haben."
+  ],
+  "CorrectAnswer": "Sie müssen Steuern bezahlen."
+}

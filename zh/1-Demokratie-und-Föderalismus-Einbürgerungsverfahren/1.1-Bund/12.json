@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist eine Aufgabe des Bundes?",
+  "PossibleAnswers": [
+    "Feuerwehr",
+    "Begrünung von Parks",
+    "Zoll",
+    "Spitäler"
+  ],
+  "CorrectAnswer": "Zoll"
+}

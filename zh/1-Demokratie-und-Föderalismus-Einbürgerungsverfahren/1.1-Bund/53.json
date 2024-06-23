@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist eine wichtige Aufgabe des Bundes?",
+  "PossibleAnswers": [
+    "Er finanziert die Herstellung von Autos.",
+    "Er sorgt für den Schutz der Umwelt.",
+    "Er bestimmt die Leitzinsen der Nationalbank.",
+    "Er unterhält eigene Elektrizitätswerke."
+  ],
+  "CorrectAnswer": "Er sorgt für den Schutz der Umwelt."
+}

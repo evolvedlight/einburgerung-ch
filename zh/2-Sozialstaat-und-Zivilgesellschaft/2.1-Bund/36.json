@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist im Schweizer Bildungssystem obligatorisch?",
+  "PossibleAnswers": [
+    "Weiterbildungskurse nach der Berufslehre",
+    "Kindertagesstätte",
+    "Maturitätsschule",
+    "Primarschule"
+  ],
+  "CorrectAnswer": "Primarschule"
+}

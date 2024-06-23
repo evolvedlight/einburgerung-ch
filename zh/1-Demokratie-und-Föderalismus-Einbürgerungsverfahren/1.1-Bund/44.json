@@ -1,0 +1,10 @@
+{
+  "Question": "Was machen Nationalrat und Ständerat gemeinsam?",
+  "PossibleAnswers": [
+    "Sie entscheiden über internationale Verträge.",
+    "Sie wählen die Mitglieder des Bundesrats und des Bundesgerichts.",
+    "Sie entwerfen das Bundesbudget.",
+    "Sie fällen im Bundesgericht Urteile."
+  ],
+  "CorrectAnswer": "Sie wählen die Mitglieder des Bundesrats und des Bundesgerichts."
+}

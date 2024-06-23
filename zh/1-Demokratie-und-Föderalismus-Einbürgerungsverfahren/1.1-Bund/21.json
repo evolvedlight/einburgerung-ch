@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist ein wichtiges Merkmal der Demokratie?",
+  "PossibleAnswers": [
+    "Das Volk wählt ein Parlament.",
+    "Es regiert ein König.",
+    "Die Menschen können frei reisen.",
+    "Die Menschen haben ein garantiertes Grundeinkommen."
+  ],
+  "CorrectAnswer": "Das Volk wählt ein Parlament."
+}

@@ -1,0 +1,10 @@
+{
+  "Question": "Wie heisst in der Stadt Zürich die Exekutive?",
+  "PossibleAnswers": [
+    "Stadtrat",
+    "Nationalrat",
+    "Regierungsrat",
+    "Bundesrat"
+  ],
+  "CorrectAnswer": "Stadtrat"
+}

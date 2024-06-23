@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist eine wichtige Aufgabe des Bundes?",
+  "PossibleAnswers": [
+    "Er fördert die Gründung von Vereinen.",
+    "Er unterstützt die Gründung von Firmen.",
+    "Er sorgt für die innere und äussere Sicherheit.",
+    "Er unterhält eigene Spitäler und Kliniken."
+  ],
+  "CorrectAnswer": "Er sorgt für die innere und äussere Sicherheit."
+}

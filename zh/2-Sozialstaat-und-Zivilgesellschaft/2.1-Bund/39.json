@@ -1,0 +1,10 @@
+{
+  "Question": "Für welchen Streitfall ist das Arbeitsgericht zuständig?",
+  "PossibleAnswers": [
+    "Wenn Arbeitnehmende die Erbschaftssteuer nicht bezahlen.",
+    "Wenn Arbeitnehmenden ohne Grund gekündigt wird",
+    "Wenn Arbeitnehmende ein Problem mit einer Nachbarin oder einem Nachbarn\nhaben.",
+    "Wenn Arbeitnehmende finanzielle Schwierigkeiten in der Familie haben, diese\njedoch nichts mit dem Betrieb zu tun hat."
+  ],
+  "CorrectAnswer": "Wenn Arbeitnehmenden ohne Grund gekündigt wird"
+}

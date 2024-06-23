@@ -1,0 +1,10 @@
+{
+  "Question": "Wie heissen die beiden \"Kammern\" des Schweizer Parlaments?",
+  "PossibleAnswers": [
+    "Oberhaus und Unterhaus",
+    "Senat und Kongress",
+    "Nationalrat und Ständerat",
+    "Fraktion und Kommission"
+  ],
+  "CorrectAnswer": "Nationalrat und Ständerat"
+}

@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist die zweite Säule der Altersvorsorge?",
+  "PossibleAnswers": [
+    "ein Denkmal auf dem Bundesplatz",
+    "die Pensionskasse",
+    "die Krankenversicherung",
+    "eine Erbschaft"
+  ],
+  "CorrectAnswer": "die Pensionskasse"
+}

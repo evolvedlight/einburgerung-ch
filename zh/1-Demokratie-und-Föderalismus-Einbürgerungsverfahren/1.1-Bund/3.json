@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist ein Departement der Bundesverwaltung?",
+  "PossibleAnswers": [
+    "Ernährungsdepartement",
+    "Natur- und Klimadepartement",
+    "Schul- und Weiterbildungsdepartement",
+    "Justiz- und Polizeidepartement"
+  ],
+  "CorrectAnswer": "Justiz- und Polizeidepartement"
+}

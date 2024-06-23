@@ -1,0 +1,10 @@
+{
+  "Question": "Wie viele Mitglieder hat die Regierung des Kantons Zürich?",
+  "PossibleAnswers": [
+    "7",
+    "3",
+    "5",
+    "je nach Aufgaben, die anstehen."
+  ],
+  "CorrectAnswer": "7"
+}

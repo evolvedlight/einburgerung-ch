@@ -1,0 +1,10 @@
+{
+  "Question": "Welches Grundrecht ist in der Bundesverfassung verankert?",
+  "PossibleAnswers": [
+    "der Waffenbesitz",
+    "die Glaubens- und Gewissensfreiheit",
+    "die persönliche Rache",
+    "das Recht auf ein eigenes Haus"
+  ],
+  "CorrectAnswer": "die Glaubens- und Gewissensfreiheit"
+}

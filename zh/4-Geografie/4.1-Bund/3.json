@@ -1,0 +1,10 @@
+{
+  "Question": "Wohin fliesst die Rhone?",
+  "PossibleAnswers": [
+    "in die Ostsee",
+    "in den Atlantik",
+    "ins Mittelmeer",
+    "ins Schwarze Meer"
+  ],
+  "CorrectAnswer": "ins Mittelmeer"
+}

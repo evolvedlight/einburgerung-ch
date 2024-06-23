@@ -1,0 +1,10 @@
+{
+  "Question": "Welcher Kanton ist ein Bergkanton?",
+  "PossibleAnswers": [
+    "Wallis",
+    "Schaffhausen",
+    "Zürich",
+    "Aargau"
+  ],
+  "CorrectAnswer": "Wallis"
+}

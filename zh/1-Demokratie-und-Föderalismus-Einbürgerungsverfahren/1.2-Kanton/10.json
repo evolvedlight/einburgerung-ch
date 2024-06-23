@@ -1,0 +1,10 @@
+{
+  "Question": "Wie viele Personen sind für den Kanton Zürich im Ständerat?",
+  "PossibleAnswers": [
+    "13",
+    "5",
+    "2",
+    "7"
+  ],
+  "CorrectAnswer": "2"
+}

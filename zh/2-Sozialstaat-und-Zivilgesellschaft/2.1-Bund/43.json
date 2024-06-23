@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist in einem Arbeitsvertrag unter anderem geregelt? Es ist gere-\ngelt, ...",
+  "PossibleAnswers": [
+    "welche Krankenkasse man wählen muss.",
+    "wie hoch die Altersrente ist.",
+    "wie die Freizeit gestaltet wird.",
+    "wie hoch der Lohn ist."
+  ],
+  "CorrectAnswer": "wie hoch der Lohn ist."
+}

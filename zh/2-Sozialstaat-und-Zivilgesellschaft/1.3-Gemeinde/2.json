@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist eine Aufgabe von Zürcher Gemeinden?",
+  "PossibleAnswers": [
+    "Sie bauen Autobahnen.",
+    "Sie führen das Militär.",
+    "Sie verkaufen Versicherungen.",
+    "Sie organisieren die Primarschule."
+  ],
+  "CorrectAnswer": "Sie organisieren die Primarschule."
+}

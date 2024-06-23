@@ -1,0 +1,10 @@
+{
+  "Question": "Welches Recht ist in der Schweizer Bundesverfassung verankert?",
+  "PossibleAnswers": [
+    "Alle Menschen haben ein Recht auf gesunde und kostenlose Ernährung.",
+    "Das persönliche Eigentum ist geschützt.",
+    "Man darf Haustiere halten.",
+    "Man darf kostenlos das Internet benutzen."
+  ],
+  "CorrectAnswer": "Das persönliche Eigentum ist geschützt."
+}

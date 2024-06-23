@@ -1,0 +1,10 @@
+{
+  "Question": "Welche Pflichten haben Einwohnerinnen und Einwohner der Schweiz?",
+  "PossibleAnswers": [
+    "Sie müssen gegen Diebstahl versichert sein.",
+    "Sie müssen bei einer Krankenkasse versichert sein.",
+    "Sie müssen ein Halbtax der SBB haben.",
+    "Sie müssen ein Haus besitzen."
+  ],
+  "CorrectAnswer": "Sie müssen bei einer Krankenkasse versichert sein."
+}

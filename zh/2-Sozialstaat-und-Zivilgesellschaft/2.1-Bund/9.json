@@ -1,0 +1,10 @@
+{
+  "Question": "Für was gibt es in der Schweiz eine Sozialversicherung?",
+  "PossibleAnswers": [
+    "wenn man einen Zahn verliert",
+    "wenn man die Stelle verliert",
+    "wenn das Velo gestohlen wird",
+    "wenn man sich scheiden lässt"
+  ],
+  "CorrectAnswer": "wenn man die Stelle verliert"
+}

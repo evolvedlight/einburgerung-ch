@@ -1,0 +1,10 @@
+{
+  "Question": "Wer übernimmt die Spitalkosten bei einem schweren Arbeitsunfall?",
+  "PossibleAnswers": [
+    "die betroffene Person selbst",
+    "die Berufsunfallversicherung",
+    "die Gewerkschaft",
+    "die Arbeitgeberin oder der Arbeitgeber"
+  ],
+  "CorrectAnswer": "die Berufsunfallversicherung"
+}

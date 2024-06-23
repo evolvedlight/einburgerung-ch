@@ -1,0 +1,10 @@
+{
+  "Question": "Wer muss in der Schweiz Militärdienst oder Zivilschutzdienst leisten?",
+  "PossibleAnswers": [
+    "junge Männer mit Schweizer Bürgerrecht",
+    "Frauen und Männer im Alter von 20 Jahren, die mindestens 10 Jahre in der Schweiz\ngelebt haben",
+    "Militärdienst ist für alle freiwillig",
+    "junge Frauen und Männer mit einem technischen oder medizinischen Beruf"
+  ],
+  "CorrectAnswer": "junge Männer mit Schweizer Bürgerrecht"
+}
