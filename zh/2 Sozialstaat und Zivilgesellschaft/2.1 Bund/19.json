@@ -1,0 +1,10 @@
+{
+  "Question": "Welche Versicherung ist in der Schweiz obligatorisch?",
+  "PossibleAnswers": [
+    "die Alters- und Hinterlassenenversicherung (AHV)",
+    "die Jugendversicherung (JV)",
+    "die Lebensversicherung (LV)",
+    "die Geburtenversicherung (GV)"
+  ],
+  "CorrectAnswer": "die Alters- und Hinterlassenenversicherung (AHV)"
+}

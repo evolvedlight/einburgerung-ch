@@ -1,0 +1,10 @@
+{
+  "Question": "Wie heisst in der Stadt Z\u00FCrich die Exekutive?",
+  "PossibleAnswers": [
+    "Stadtrat",
+    "Nationalrat",
+    "Regierungsrat",
+    "Bundesrat"
+  ],
+  "CorrectAnswer": "Stadtrat"
+}

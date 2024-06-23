@@ -1,0 +1,10 @@
+{
+  "Question": "Wie setzt sich die Vereinigte Bundesversammlung zusammen?",
+  "PossibleAnswers": [
+    "aus den Mitgliedern des Nationalrats und St\u00E4nderats",
+    "aus den Bundesrichterinnen und Bundesrichtern",
+    "aus den Mitgliedern der kantonalen Regierungen",
+    "aus den Parteipr\u00E4sidentinnen und Parteipr\u00E4sidenten"
+  ],
+  "CorrectAnswer": "aus den Mitgliedern des Nationalrats und St\u00E4nderats"
+}

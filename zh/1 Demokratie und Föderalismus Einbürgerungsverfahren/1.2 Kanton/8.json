@@ -1,0 +1,10 @@
+{
+  "Question": "Wie oft werden die Mitglieder des Kantonsrats gew\u00E4hlt?",
+  "PossibleAnswers": [
+    "alle 6 Jahre",
+    "alle 2 Jahre",
+    "alle 7 Jahre",
+    "alle 4 Jahre"
+  ],
+  "CorrectAnswer": "alle 4 Jahre"
+}

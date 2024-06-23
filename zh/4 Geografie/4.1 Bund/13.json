@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist eine wichtige Aufgabe der Raumplanung?",
+  "PossibleAnswers": [
+    "Schutz von unverbauten Landschaften",
+    "Unterhalt von Kanalisationen",
+    "Bau von Einkaufszentren",
+    "Finanzausgleich zwischen Gemeinden"
+  ],
+  "CorrectAnswer": "Schutz von unverbauten Landschaften"
+}

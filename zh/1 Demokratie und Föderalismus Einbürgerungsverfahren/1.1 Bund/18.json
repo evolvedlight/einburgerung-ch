@@ -1,0 +1,10 @@
+{
+  "Question": "Was bedeutet Rechtsgleichheit?",
+  "PossibleAnswers": [
+    "Alle verdienen gleich viel.",
+    "Alle Kantone haben die gleichen Gesetze.",
+    "Alle Menschen sind vor dem Gesetz gleich.",
+    "Alle Menschen haben gleich lange Ferien."
+  ],
+  "CorrectAnswer": "Alle Menschen sind vor dem Gesetz gleich."
+}

@@ -1,0 +1,10 @@
+{
+  "Question": "Was bedeutet AHV?",
+  "PossibleAnswers": [
+    "Alters- und Hinterlassenenversicherung",
+    "Auto- und Heimreiseversicherung",
+    "Arbeits- und Haushaltsversicherung",
+    "Amt f\u00FCr Hausverwaltung"
+  ],
+  "CorrectAnswer": "Alters- und Hinterlassenenversicherung"
+}

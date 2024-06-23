@@ -1,0 +1,10 @@
+{
+  "Question": "Wer w\u00E4hlt den Gemeinderat der Stadt Z\u00FCrich?",
+  "PossibleAnswers": [
+    "der Kantonsrat",
+    "der Regierungsrat",
+    "der Bezirksrat",
+    "das Volk"
+  ],
+  "CorrectAnswer": "das Volk"
+}

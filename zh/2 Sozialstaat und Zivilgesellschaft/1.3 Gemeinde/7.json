@@ -1,0 +1,10 @@
+{
+  "Question": "Wer leitet die Verwaltung und plant die Ziele \u00F6ffentlichen Handelns\r\nder Stadt Z\u00FCrich?",
+  "PossibleAnswers": [
+    "die Stadtkanzlei",
+    "der Stadtrat",
+    "die Einwohnerkontrolle",
+    "die Einwohnerinnen und Einwohner der Stadt"
+  ],
+  "CorrectAnswer": "der Stadtrat"
+}

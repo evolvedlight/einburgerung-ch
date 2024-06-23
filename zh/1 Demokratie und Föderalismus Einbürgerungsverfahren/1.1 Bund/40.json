@@ -1,0 +1,10 @@
+{
+  "Question": "Wer w\u00E4hlt die sieben Mitglieder des Bundesrats?",
+  "PossibleAnswers": [
+    "die Parteipr\u00E4sidentinnen und Parteipr\u00E4sidenten",
+    "die Stimmb\u00FCrgerinnen und Stimmb\u00FCrger in direkter Wahl",
+    "der Rat der \u00C4ltesten",
+    "Nationalrat und St\u00E4nderat"
+  ],
+  "CorrectAnswer": "Nationalrat und St\u00E4nderat"
+}

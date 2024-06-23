@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist das BAG?",
+  "PossibleAnswers": [
+    "die Bereitstellung allgemeiner Gesundheitsleistungen",
+    "das Bundesamt f\u00FCr Gesundheit",
+    "das Bundesamt f\u00FCr allgemeine Grundversorgung",
+    "das Kontrollorgan des Bundes f\u00FCr allgemeine Grundversicherungen"
+  ],
+  "CorrectAnswer": "das Bundesamt f\u00FCr Gesundheit"
+}

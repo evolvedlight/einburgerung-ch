@@ -1,0 +1,10 @@
+{
+  "Question": "Was passiert an einer Gemeindeversammlung?",
+  "PossibleAnswers": [
+    "Die Stimmb\u00FCrgerinnen und Stimmb\u00FCrger entscheiden \u00FCber das Budget.",
+    "Die Einwohnerinnen und Einwohner feiern ein Fest.",
+    "Die Stimmb\u00FCrgerinnen und Stimmb\u00FCrger w\u00E4hlen den Chef oder die Chefin der Feu-\r\nerwehr.",
+    "Die Stimmb\u00FCrgerinnen und Stimmb\u00FCrger beschliessen neue nationale Gesetze."
+  ],
+  "CorrectAnswer": "Die Stimmb\u00FCrgerinnen und Stimmb\u00FCrger entscheiden \u00FCber das Budget."
+}

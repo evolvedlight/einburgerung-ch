@@ -1,0 +1,10 @@
+{
+  "Question": "Wer muss sich bei einer Krankenkasse versichern lassen?",
+  "PossibleAnswers": [
+    "niemand",
+    "nur Arbeitnehmerinnen und Arbeitnehmer",
+    "nur Kinder und \u00E4ltere Menschen",
+    "alle Einwohnerinnen und Einwohner"
+  ],
+  "CorrectAnswer": "alle Einwohnerinnen und Einwohner"
+}

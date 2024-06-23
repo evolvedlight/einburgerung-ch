@@ -1,0 +1,10 @@
+{
+  "Question": "Wer ist in der Schweiz in erster Linie f\u00FCr die Volksschule verantwortlich?",
+  "PossibleAnswers": [
+    "die Bundesschulverwaltung",
+    "die Kantone und Gemeinden",
+    "die Schulkonferenz der Kantone",
+    "der Volksschulrat"
+  ],
+  "CorrectAnswer": "die Kantone und Gemeinden"
+}

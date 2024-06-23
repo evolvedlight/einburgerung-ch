@@ -1,0 +1,10 @@
+{
+  "Question": "Wie heisst die gr\u00F6sste Stadt der Schweiz?",
+  "PossibleAnswers": [
+    "Z\u00FCrich",
+    "Basel",
+    "Bern",
+    "Genf"
+  ],
+  "CorrectAnswer": "Z\u00FCrich"
+}

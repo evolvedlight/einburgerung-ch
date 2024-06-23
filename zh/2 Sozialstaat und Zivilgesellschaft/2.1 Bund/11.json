@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist die erste S\u00E4ule der Altersvorsorge?",
+  "PossibleAnswers": [
+    "das bedingungslose Grundeinkommen",
+    "die Pensionskasse",
+    "der Grundpfeiler des Schweizer Parlamentsgeb\u00E4udes",
+    "die AHV (Alters-, Hinterlassenen- und Invalidenversicherung)"
+  ],
+  "CorrectAnswer": "die AHV (Alters-, Hinterlassenen- und Invalidenversicherung)"
+}

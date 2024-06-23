@@ -1,0 +1,10 @@
+{
+  "Question": "Wer beschliesst auf Bundesebene neue Gesetze?",
+  "PossibleAnswers": [
+    "das Bundesgericht",
+    "die Pr\u00E4sidentinnen und Pr\u00E4sidenten der Parteien",
+    "der Nationalrat und der St\u00E4nderat und das Volk (Referendum)",
+    "die Bundeskanzlei"
+  ],
+  "CorrectAnswer": "der Nationalrat und der St\u00E4nderat und das Volk (Referendum)"
+}

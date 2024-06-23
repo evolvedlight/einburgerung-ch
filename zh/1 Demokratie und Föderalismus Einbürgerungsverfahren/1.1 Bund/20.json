@@ -1,0 +1,10 @@
+{
+  "Question": "Die Schweiz ist ...",
+  "PossibleAnswers": [
+    "eine Diktatur.",
+    "ein absolutistischer Staat.",
+    "eine Demokratie.",
+    "ein F\u00FCrstentum."
+  ],
+  "CorrectAnswer": "eine Demokratie."
+}

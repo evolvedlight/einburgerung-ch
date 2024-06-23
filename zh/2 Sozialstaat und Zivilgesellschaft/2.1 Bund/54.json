@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist in der Schweiz verboten? Es ist verboten, ...",
+  "PossibleAnswers": [
+    "als Mann und Frau unverheiratet zusammen zu leben.",
+    "als erwachsene Person mit den Eltern zusammen zu leben.",
+    "als Mann mit zwei Frauen zur selben Zeit verheiratet zu sein.",
+    "als Mann f\u00FCr seine Kinder allein zu sorgen."
+  ],
+  "CorrectAnswer": "als Mann mit zwei Frauen zur selben Zeit verheiratet zu sein."
+}

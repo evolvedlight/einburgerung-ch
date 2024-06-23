@@ -1,0 +1,10 @@
+{
+  "Question": "Wer erteilt die Baubewilligung f\u00FCr ein Einfamilienhaus im Kanton Z\u00FC-\r\nrich?",
+  "PossibleAnswers": [
+    "der Nachbar",
+    "die Gemeinde",
+    "das Quartierkomitee",
+    "die Architektin"
+  ],
+  "CorrectAnswer": "die Gemeinde"
+}

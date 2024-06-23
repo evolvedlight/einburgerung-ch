@@ -1,0 +1,10 @@
+{
+  "Question": "Im Jahr 1515 verloren die Eidgenossen die Schlacht bei Marignano.\r\nWelche Folgen hatte diese Niederlage?",
+  "PossibleAnswers": [
+    "Die Eidgenossen verzichteten auf die Eroberung weiterer Gebiete.",
+    "Die Schweiz schaffte ihre Armee ab.",
+    "Die Bauern wehrten sich gegen die Regierungen in Bern, Z\u00FCrich und Luzern.",
+    "Die Eidgenossen \u00FCberfielen die Stadt Z\u00FCrich."
+  ],
+  "CorrectAnswer": "Die Eidgenossen verzichteten auf die Eroberung weiterer Gebiete."
+}

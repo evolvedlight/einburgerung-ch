@@ -1,0 +1,10 @@
+{
+  "Question": "Ab wann muss ein Kind in der Schweiz eine Krankenversicherung\r\nhaben?",
+  "PossibleAnswers": [
+    "ab sp\u00E4testens einem Jahr nach der Geburt",
+    "ab Schuleintritt",
+    "ab sp\u00E4testens drei Monaten nach der Geburt",
+    "Ein Kind braucht keine eigene Krankenversicherung."
+  ],
+  "CorrectAnswer": "ab sp\u00E4testens drei Monaten nach der Geburt"
+}

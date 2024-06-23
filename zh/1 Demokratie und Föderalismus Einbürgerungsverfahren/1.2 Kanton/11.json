@@ -1,0 +1,10 @@
+{
+  "Question": "Wie heisst das Parlament im Kanton Z\u00FCrich?",
+  "PossibleAnswers": [
+    "Landtag",
+    "Grosser Rat",
+    "Kantonsrat",
+    "Regierungsrat"
+  ],
+  "CorrectAnswer": "Kantonsrat"
+}

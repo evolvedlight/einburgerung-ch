@@ -1,0 +1,10 @@
+{
+  "Question": "Wann kann der Fahrausweis entzogen werden?",
+  "PossibleAnswers": [
+    "bei unerlaubtem Hupen",
+    "bei Fahren unter Einfluss von Alkohol oder Drogen",
+    "bei falschem Parkieren",
+    "bei Fahren bei starkem Nebel"
+  ],
+  "CorrectAnswer": "bei Fahren unter Einfluss von Alkohol oder Drogen"
+}

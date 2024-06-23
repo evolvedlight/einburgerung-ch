@@ -1,0 +1,10 @@
+{
+  "Question": "Wer ist der wichtigste Handelspartner der Schweiz?",
+  "PossibleAnswers": [
+    "USA",
+    "EU",
+    "China",
+    "Brasilien"
+  ],
+  "CorrectAnswer": "EU"
+}

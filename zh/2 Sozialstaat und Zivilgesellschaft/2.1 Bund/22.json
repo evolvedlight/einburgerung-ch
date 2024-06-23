@@ -1,0 +1,10 @@
+{
+  "Question": "Was finanziert der Staat mit Steuergeldern?",
+  "PossibleAnswers": [
+    "Arztpraxen",
+    "Kinos",
+    "Schulen",
+    "Hotels"
+  ],
+  "CorrectAnswer": "Schulen"
+}

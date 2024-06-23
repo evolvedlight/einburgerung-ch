@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist eine Aufgabe des Kantons Z\u00FCrich?",
+  "PossibleAnswers": [
+    "Abschluss von Vertr\u00E4gen mit der Europ\u00E4ischen Union",
+    "Organisation der Universit\u00E4t",
+    "Digitalisierung der Bundesverwaltung",
+    "Organisation der Armee"
+  ],
+  "CorrectAnswer": "Organisation der Universit\u00E4t"
+}

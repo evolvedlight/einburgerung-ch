@@ -1,0 +1,10 @@
+{
+  "Question": "Wie viele Kantone hat der Schweizer Bundesstaat?",
+  "PossibleAnswers": [
+    "12 (10 Kantone und 2 Halbkantone)",
+    "26 (20 Kantone und 6 Halbkantone)",
+    "34 (28 Kantone und 6 Halbkantone)",
+    "16 (12 Kantone und 4 Halbkantone)"
+  ],
+  "CorrectAnswer": "26 (20 Kantone und 6 Halbkantone)"
+}

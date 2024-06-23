@@ -1,0 +1,10 @@
+{
+  "Question": "Welche Strafe verbietet die Bundesverfassung?",
+  "PossibleAnswers": [
+    "eine Gef\u00E4ngnisstrafe",
+    "eine Geldstrafe",
+    "die Todesstrafe",
+    "gemeinn\u00FCtzige Arbeit"
+  ],
+  "CorrectAnswer": "die Todesstrafe"
+}

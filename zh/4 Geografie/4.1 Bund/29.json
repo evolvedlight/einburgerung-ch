@@ -1,0 +1,10 @@
+{
+  "Question": "Welche Sprache spricht man im Kanton Tessin?",
+  "PossibleAnswers": [
+    "R\u00E4toromanisch",
+    "Franz\u00F6sisch",
+    "Italienisch",
+    "Deutsch"
+  ],
+  "CorrectAnswer": "Italienisch"
+}

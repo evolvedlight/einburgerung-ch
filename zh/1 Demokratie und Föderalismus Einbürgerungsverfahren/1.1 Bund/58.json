@@ -1,0 +1,10 @@
+{
+  "Question": "Die Schweiz ist ein f\u00F6deralistischer Staat mit drei Staatsebenen. Was\r\nist die oberste Ebene?",
+  "PossibleAnswers": [
+    "die Gemeinde",
+    "der Kanton",
+    "der Bund",
+    "die Region"
+  ],
+  "CorrectAnswer": "der Bund"
+}

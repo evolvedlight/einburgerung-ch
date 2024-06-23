@@ -1,0 +1,10 @@
+{
+  "Question": "Welche Region in der Schweiz nennt man Welschland oder Romandie?",
+  "PossibleAnswers": [
+    "die Ostschweiz",
+    "die franz\u00F6sischsprachige Schweiz",
+    "die deutschsprachige Schweiz",
+    "das Tessin"
+  ],
+  "CorrectAnswer": "die franz\u00F6sischsprachige Schweiz"
+}

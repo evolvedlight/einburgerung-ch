@@ -1,0 +1,10 @@
+{
+  "Question": "Wie heisst die Schweizer Nationalhymne?",
+  "PossibleAnswers": [
+    "Swiss-Song",
+    "Hallelujah",
+    "Schweizerpsalm",
+    "Schweizer Hit"
+  ],
+  "CorrectAnswer": "Schweizerpsalm"
+}

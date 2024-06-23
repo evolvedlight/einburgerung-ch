@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist das ordentliche Rentenalter der Schweiz?",
+  "PossibleAnswers": [
+    "64 Jahre bei Frauen und M\u00E4nnern",
+    "65 Jahre bei Frauen und M\u00E4nnern",
+    "64 Jahre bei Frauen und 65 Jahre bei M\u00E4nnern",
+    "63 Jahre bei Frauen und 64 Jahre bei M\u00E4nnern"
+  ],
+  "CorrectAnswer": "64 Jahre bei Frauen und 65 Jahre bei M\u00E4nnern"
+}

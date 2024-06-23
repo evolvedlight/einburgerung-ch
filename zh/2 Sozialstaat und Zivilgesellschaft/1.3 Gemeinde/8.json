@@ -1,0 +1,10 @@
+{
+  "Question": "Wof\u00FCr ist die Gemeinde zust\u00E4ndig?",
+  "PossibleAnswers": [
+    "Fachhochschulen",
+    "Geldpolitik",
+    "Zivildienst",
+    "Einwohnerkontrolle"
+  ],
+  "CorrectAnswer": "Einwohnerkontrolle"
+}

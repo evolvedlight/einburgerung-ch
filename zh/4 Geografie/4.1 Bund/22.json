@@ -1,0 +1,10 @@
+{
+  "Question": "Wie heisst dieser Berg?",
+  "PossibleAnswers": [
+    "Finsteraarhorn",
+    "Eiger",
+    "Matterhorn",
+    "Mont Blanc"
+  ],
+  "CorrectAnswer": "Matterhorn"
+}

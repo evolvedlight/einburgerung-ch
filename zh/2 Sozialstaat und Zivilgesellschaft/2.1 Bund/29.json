@@ -1,0 +1,10 @@
+{
+  "Question": "Welche Versicherung ist in der Schweiz obligatorisch?",
+  "PossibleAnswers": [
+    "Haftpflichtversicherung",
+    "Krankenversicherung",
+    "Arbeitsversicherung",
+    "Verm\u00F6gensversicherung"
+  ],
+  "CorrectAnswer": "Krankenversicherung"
+}

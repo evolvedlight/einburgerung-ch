@@ -1,0 +1,10 @@
+{
+  "Question": "Die Schweiz ist ein Rechtsstaat. Was bedeutet das?",
+  "PossibleAnswers": [
+    "Auch der Staat muss sich an die Gesetze halten.",
+    "Die Gesetze gelten nur f\u00FCr die Personen, die diesen Gesetzen zugestimmt haben.",
+    "Die Gesetze gelten nur f\u00FCr Schweizer B\u00FCrgerinnen und B\u00FCrger.",
+    "Die Gesetze gelten nicht f\u00FCr Politikerinnen und Politiker."
+  ],
+  "CorrectAnswer": "Auch der Staat muss sich an die Gesetze halten."
+}

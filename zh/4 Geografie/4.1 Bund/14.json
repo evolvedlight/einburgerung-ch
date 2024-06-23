@@ -1,0 +1,10 @@
+{
+  "Question": "Warum werden die Gletscher in der Schweiz kleiner?",
+  "PossibleAnswers": [
+    "wegen dem Klimawandel",
+    "wegen den vielen Touristen in den Bergen",
+    "wegen der Benutzung f\u00FCr die Ski-Rennen",
+    "wegen dem vielen Regen im Sommer"
+  ],
+  "CorrectAnswer": "wegen dem Klimawandel"
+}

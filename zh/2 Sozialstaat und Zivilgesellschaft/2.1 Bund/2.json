@@ -1,0 +1,10 @@
+{
+  "Question": "Welche Versicherung im Gesundheitswesen ist Pflicht?",
+  "PossibleAnswers": [
+    "die Versicherung f\u00FCr Alternativmedizin",
+    "die zahnmedizinische Versicherung",
+    "die Zusatzversicherung",
+    "die obligatorische Krankenpflegeversicherung"
+  ],
+  "CorrectAnswer": "die obligatorische Krankenpflegeversicherung"
+}

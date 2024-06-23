@@ -1,0 +1,10 @@
+{
+  "Question": "Wann beginnt die obligatorische Schulzeit im Kanton Z\u00FCrich?",
+  "PossibleAnswers": [
+    "Kindergarten",
+    "Primarschule",
+    "Spielgruppe",
+    "Einf\u00FChrungsklasse"
+  ],
+  "CorrectAnswer": "Kindergarten"
+}

@@ -1,0 +1,10 @@
+{
+  "Question": "Wo leben die meisten Menschen in der Schweiz?",
+  "PossibleAnswers": [
+    "in den Alpen",
+    "im Westschweizer Jura",
+    "im Mittelland",
+    "im Tessin"
+  ],
+  "CorrectAnswer": "im Mittelland"
+}

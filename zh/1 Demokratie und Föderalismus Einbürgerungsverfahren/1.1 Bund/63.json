@@ -1,0 +1,10 @@
+{
+  "Question": "Wie viele offizielle Landessprachen gibt es in der Schweiz?",
+  "PossibleAnswers": [
+    "2",
+    "3",
+    "4",
+    "8"
+  ],
+  "CorrectAnswer": "4"
+}

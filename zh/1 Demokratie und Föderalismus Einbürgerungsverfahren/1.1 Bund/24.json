@@ -1,0 +1,10 @@
+{
+  "Question": "Wer f\u00FChrt die Regierungsgesch\u00E4fte der Schweiz?",
+  "PossibleAnswers": [
+    "die Parteien",
+    "die Medien",
+    "der Bundesrat",
+    "die Bundesversammlung"
+  ],
+  "CorrectAnswer": "der Bundesrat"
+}

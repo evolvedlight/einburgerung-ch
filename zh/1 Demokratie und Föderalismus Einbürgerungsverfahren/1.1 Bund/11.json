@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist eine Aufgabe des Bundes?",
+  "PossibleAnswers": [
+    "Wasserversorgung",
+    "Geldpolitik",
+    "Polizeiwesen",
+    "Organisation der Volksschule"
+  ],
+  "CorrectAnswer": "Geldpolitik"
+}

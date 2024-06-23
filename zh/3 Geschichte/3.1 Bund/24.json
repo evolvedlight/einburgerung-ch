@@ -1,0 +1,10 @@
+{
+  "Question": "Was f\u00FChrte 1798 zur politischen Neuordnung der Eidgenossenschaft?",
+  "PossibleAnswers": [
+    "die Einf\u00FChrung der allgemeinen Schulpflicht",
+    "die Revolution im Waadtland",
+    "der Einmarsch der Franzosen in die Schweiz",
+    "die Gr\u00FCndung des Kantons Z\u00FCrich"
+  ],
+  "CorrectAnswer": "der Einmarsch der Franzosen in die Schweiz"
+}

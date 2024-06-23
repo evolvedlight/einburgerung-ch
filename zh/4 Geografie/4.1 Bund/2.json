@@ -1,0 +1,10 @@
+{
+  "Question": "Wohin fliesst der Rhein?",
+  "PossibleAnswers": [
+    "in die Nordsee",
+    "ins Schwarze Meer",
+    "in den Pazifik",
+    "ins Mittelmeer"
+  ],
+  "CorrectAnswer": "in die Nordsee"
+}

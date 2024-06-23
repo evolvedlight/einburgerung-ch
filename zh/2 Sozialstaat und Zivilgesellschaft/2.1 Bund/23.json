@@ -1,0 +1,10 @@
+{
+  "Question": "Was ist eine Sozialversicherung in der Schweiz?",
+  "PossibleAnswers": [
+    "die Auto- und Insassenversicherung (AIV)",
+    "die Invalidenversicherung (IV)",
+    "die Diebstahlversicherung (DV)",
+    "die Bau- und Feuerversicherung (BFV)"
+  ],
+  "CorrectAnswer": "die Invalidenversicherung (IV)"
+}

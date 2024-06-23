@@ -1,0 +1,10 @@
+{
+  "Question": "Von was h\u00E4ngt die individuelle Steuerbelastung ab?",
+  "PossibleAnswers": [
+    "vom steuerbaren Einkommen und Verm\u00F6gen",
+    "von der Mitgliedschaft bei einer Partei",
+    "von der Nationalit\u00E4t",
+    "von der Mitgliedschaft in einer Beh\u00F6rde"
+  ],
+  "CorrectAnswer": "vom steuerbaren Einkommen und Verm\u00F6gen"
+}

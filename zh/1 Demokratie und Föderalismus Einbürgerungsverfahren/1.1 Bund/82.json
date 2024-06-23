@@ -1,0 +1,10 @@
+{
+  "Question": "Durch was wird der Pers\u00F6nlichkeits- oder Datenschutz verletzt?",
+  "PossibleAnswers": [
+    "Wenn der pers\u00F6nliche Computer nicht gen\u00FCgend gesch\u00FCtzt ist.",
+    "Wenn eine Person auf einer \u00F6ffentlichen Strasse fotografiert wird.",
+    "Wenn eine Zeitung \u00FCber eine Person berichtet.",
+    "Wenn private Informationen \u00FCber einzelne Personen ohne gesetzliche Grundlage\r\noder ohne Zustimmung der Person ver\u00F6ffentlicht werden."
+  ],
+  "CorrectAnswer": "Wenn private Informationen \u00FCber einzelne Personen ohne gesetzliche Grundlage\r\noder ohne Zustimmung der Person ver\u00F6ffentlicht werden."
+}

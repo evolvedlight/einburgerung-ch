@@ -1,0 +1,10 @@
+{
+  "Question": "An welchem Wochentag finden nationale Wahlen und Abstimmungen\r\nstatt?",
+  "PossibleAnswers": [
+    "Sonntag",
+    "Mittwoch",
+    "Montag",
+    "Freitag"
+  ],
+  "CorrectAnswer": "Sonntag"
+}

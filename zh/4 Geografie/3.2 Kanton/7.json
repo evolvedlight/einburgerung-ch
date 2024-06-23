@@ -1,0 +1,10 @@
+{
+  "Question": "Wer hat die Kirche in Z\u00FCrich reformiert?",
+  "PossibleAnswers": [
+    "Jan Hus",
+    "Ulrich Zwingli",
+    "Martin Luther",
+    "Jean Calvin"
+  ],
+  "CorrectAnswer": "Ulrich Zwingli"
+}

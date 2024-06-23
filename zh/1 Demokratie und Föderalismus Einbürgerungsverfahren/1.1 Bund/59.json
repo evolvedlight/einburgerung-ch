@@ -1,0 +1,10 @@
+{
+  "Question": "F\u00FCr was ist der Bund zust\u00E4ndig?",
+  "PossibleAnswers": [
+    "f\u00FCr die Organisation der Volksschule",
+    "f\u00FCr die Aussenpolitik",
+    "f\u00FCr den Erlass von Bauordnungen",
+    "f\u00FCr die Wahl der Kantonsrichterinnen und Kantonsrichter"
+  ],
+  "CorrectAnswer": "f\u00FCr die Aussenpolitik"
+}

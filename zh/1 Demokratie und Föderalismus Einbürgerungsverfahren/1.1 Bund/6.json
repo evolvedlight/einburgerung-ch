@@ -1,0 +1,10 @@
+{
+  "Question": "Was macht der Bundeskanzler oder die Bundeskanzlerin der Schweiz?",
+  "PossibleAnswers": [
+    "den Bundesrat unterst\u00FCtzen",
+    "die Schweiz regieren",
+    "den Bundesrat w\u00E4hlen",
+    "Gesetze machen"
+  ],
+  "CorrectAnswer": "den Bundesrat unterst\u00FCtzen"
+}

@@ -1,0 +1,10 @@
+{
+  "Question": "Wie viele Regierungsr\u00E4te hat der Kanton Z\u00FCrich?",
+  "PossibleAnswers": [
+    "3",
+    "250",
+    "7",
+    "180"
+  ],
+  "CorrectAnswer": "7"
+}
